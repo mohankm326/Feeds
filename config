@@ -1,0 +1,5796 @@
+{
+"channels": [
+{
+"name": "ZeeNews English",
+"languageName": "English",
+"sectionUrl": "http://st3.zeenews.india.com/liveapi/english/section.json",
+"sectionNewUrl": "http://st3.zeenews.india.com/liveapi/english/section_new.json",
+"homeUrl": "http://st3.zeenews.india.com/liveapi/english/index.json",
+"liveTVUrl": "http://st3.zeenews.india.com/liveapi/english/livetv.json",
+"briefNewsUrl": "http://st3.zeenews.india.com/liveapi/english/briefnews/index.json",
+"latestNewsUrl": "http://st3.zeenews.india.com/liveapi/english/latestnews/index.json",
+"photoSectionUrl": "http://st3.zeenews.india.com/liveapi/english/photos/index.json",
+"videoSectionUrl": "http://st3.zeenews.india.com/liveapi/english/videos/index.json",
+"aboutusUrl": "",
+"is_livetv": true,
+"searchUrl": "https://zeenews.india.com/mobileapi/search.php?searchstring=",
+"privacyPolicyUrl": "http://st3.zeenews.india.com/liveapi/english/privacy.json",
+"contactUsUrl": "http://st3.zeenews.india.com/liveapi/english/contact.json",
+"disclaimerUrl": "http://st3.zeenews.india.com/liveapi/english/disclaimer.json",
+"campaignUrl": "http://st3.zeenews.india.com/liveapi/english/campaign.json",
+"topic_post_url": "http://st3.zeenews.india.com/liveapi/english/posts/news_id/index.json",
+"topic_section_url": "http://st3.zeenews.india.com/liveapi/english/section_id/index.json",
+"homePageNativeVideo": "/11440465/Zeenews_Hindi_App_Homepage_NativeVideo",
+"homePageNativeStandard": "/11440465/Zeenews_Hindi_App_Homepage_NativeStandard",
+"rosNativeVideo": "/11440465/Zeenews_Hindi_App_ROS_NativeVideo",
+"rosNativeStandard": "/11440465/Zeenews_Hindi_App_ROS_NativeStandard",
+"articleMiddle300x250": "/11440465/Zeenews_Hindi_App_ArticleMiddle_300x250",
+"articleAfterStory300x250": "/11440465/Zeenews_Hindi_App_Article_300x250_ATF",
+"articleNativeVideo": "/11440465/Zeenews_Hindi_App_Article_NativeVideo",
+"photoListing300x250": "/11440465/Zeenews_Hindi_App_PhotoListing_300x250",
+"photoDetail300x250": "/11440465/Zeenews_Hindi_App_PhotoDetail_300x250",
+"splashNativeAdd": "/11440465/Zeenews_Hindi_App_SplashScreen",
+"termsOfUseUrl": "",
+"interstitialAd": "",
+"fullPostsUrl": "",
+"websiteUrl": "",
+"siteId": "",
+"trendingNewsUrl": "http://st3.zeenews.india.com/liveapi/english/trending/index.json",
+"livetv_token_url": "https://useraction.zee5.com/token/live.php",
+"livetv_streaming_url": "https://z5ams.akamaized.net/zeenews/index.m3u8",
+"homeNewsIndexing": [
+"electionCard",
+"breakingNews",
+"featuredNews",
+"cricketCard",
+"section1",
+"section2",
+"section3",
+"special_card1",
+"section4",
+"special_card2",
+"section5",
+"special_card3",
+"special_card4",
+"section6",
+"section7",
+"section8",
+"section9",
+"section10",
+"section11",
+"section12",
+"section13",
+"section14",
+"section15",
+"section16",
+"section17",
+"section18",
+"section19",
+"section20",
+"section21",
+"section22",
+"section23",
+"section24",
+"section25",
+"section26",
+"section27",
+"section28",
+"section29",
+"section30"
+],
+"vast": {
+"android": {
+"preroll": "",
+"midroll": "",
+"preroll_videos_url": "",
+"midroll_videos_url": "",
+"preroll_livetv_url": "",
+"midroll_livetv_url": "",
+"midroll_time_min": 10
+},
+"ios": {
+"preroll": "",
+"midroll": "",
+"preroll_videos_url": "",
+"midroll_videos_url": "",
+"preroll_livetv_url": "",
+"midroll_livetv_url": "",
+"midroll_time_min": 5
+}
+},
+"homeHeaderTag": [
+{
+"name": "Home",
+"viewType": "HOME",
+"sequence": 1,
+"url": "http://st3.zeenews.india.com/liveapi/english/index.json",
+"tagId": 0
+},
+{
+"name": "Brief",
+"viewType": "BRIEF",
+"sequence": 2,
+"url": "http://st3.zeenews.india.com/liveapi/english/briefnews/index.json",
+"tagId": 0
+},
+{
+"name": "Latest",
+"viewType": "LATEST",
+"sequence": 3,
+"url": "http://st3.zeenews.india.com/liveapi/english/latestnews/index.json",
+"zeeUrl": "https://zeenews.india.com/mobileapi/latestnews.php",
+"tagId": 0
+}
+],
+"forceUpdateMessage": "This app is expired and cannot be used. Get the Latest version!",
+"optionalUpdateMessage": "A new version of Zee News is available for installation.Get the latest version TODAY!",
+"homeAllAdsIOS": [
+{
+"adsid": "/11440465/Zeenews_iOS/Zeenews_iOS_HP_Native_India_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 848786,
+"sectionName": "india",
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_iOS/Zeenews_iOS_HP_Native_World_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 120186,
+"sectionName": "world",
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_iOS/Zeenews_iOS_HP_Native_States_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 120310,
+"sectionName": "states",
+"adsPosition": 2,
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_iOS/Zeenews_iOS_HP_Native_Entertainment_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 120082,
+"sectionName": "entertainment",
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_iOS/Zeenews_iOS_HP_Native_Sport_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 120890,
+"sectionName": "sports",
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_iOS/Zeenews_iOS_HP_Native_Business_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 657581,
+"sectionName": "business",
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_iOS/Zeenews_iOS_HP_Native_Health_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 120352,
+"sectionName": "health",
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_iOS/Zeenews_iOS_HP_Native_Technology_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 120563,
+"sectionName": "technology",
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_iOS/Zeenews_iOS_HP_Native_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 0,
+"sectionName": "featuredNews",
+"adsType": "native"
+},
+{
+"adsid": "/11440465/Zeenews_iOS/Zeenews_iOS_HP_ATF_320x50",
+"adsWidth": 320,
+"adsHeight": 50,
+"showAds": true,
+"Fulid": false,
+"sectionId": 0,
+"sectionName": null,
+"adsType": "ATF_50"
+},
+{
+"adsid": "/11440465/Zeenews_iOS/Zeenews_iOS_HP_ATF_300x250",
+"adsWidth": 300,
+"adsHeight": 250,
+"showAds": true,
+"Fulid": false,
+"sectionId": 0,
+"sectionName": null,
+"adsType": "ATF_250"
+},
+{
+"adsid": "/11440465/Zeenews_iOS/Zeenews_iOS_HP_BTF1_300x250",
+"adsWidth": 300,
+"adsHeight": 250,
+"showAds": true,
+"Fulid": false,
+"sectionId": 0,
+"sectionName": null,
+"adsType": "BTF_1_250"
+},
+{
+"adsid": "/11440465/Zeenews_iOS/Zeenews_iOS_HP_BTF2_300x250",
+"adsWidth": 300,
+"adsHeight": 250,
+"showAds": true,
+"Fulid": false,
+"sectionId": 0,
+"sectionName": null,
+"adsType": "BTF_2_250"
+},
+{
+"adsid": "/11440465/Zeenews_iOS/Zeenews_iOS_HP_Sticky_320x50",
+"adsWidth": 320,
+"adsHeight": 50,
+"showAds": true,
+"Fulid": false,
+"sectionId": 0,
+"sectionName": null,
+"adsType": "Sticky_50"
+}
+],
+"storyPageAdsIOS": [
+{
+"adsid": "/11440465/Zeenews_iOS/Zeenews_iOS_AS_ATF_320x50",
+"adsWidth": 320,
+"adsHeight": 50,
+"showAds": true,
+"Fulid": false,
+"adsType": "ATF_50"
+},
+{
+"adsid": "/11440465/Zeenews_iOS/Zeenews_iOS_AS_ATF_300x250",
+"adsWidth": 300,
+"adsHeight": 250,
+"showAds": true,
+"Fulid": false,
+"adsType": "ATF_250"
+},
+{
+"adsid": "/11440465/Zeenews_iOS/Zeenews_iOS_AS_BTF1_300x250",
+"adsWidth": 300,
+"adsHeight": 250,
+"showAds": true,
+"Fulid": false,
+"adsType": "BTF_1_250"
+},
+{
+"adsid": "/11440465/Zeenews_iOS/Zeenews_iOS_AS_BTF2_300x250",
+"adsWidth": 300,
+"adsHeight": 250,
+"showAds": true,
+"Fulid": false,
+"adsType": "BTF_2_250"
+},
+{
+"adsid": "/11440465/Zeenews_iOS/Zeenews_iOS_AS_Sticky_320x50",
+"adsWidth": 320,
+"adsHeight": 50,
+"showAds": true,
+"Fulid": false,
+"adsType": "Sticky_50"
+},
+{
+"adsid": "/11440465/Zeenews_iOS/Zeenews_iOS_AS_Native_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"adsType": "Native"
+}
+],
+"sectionPageAdsIOS": [
+{
+"adsid": "/11440465/Zeenews_iOS/Zeenews_iOS_AL_ATF_320x50",
+"adsWidth": 320,
+"adsHeight": 50,
+"showAds": true,
+"Fulid": false,
+"adsType": "ATF_50"
+},
+{
+"adsid": "/11440465/Zeenews_iOS/Zeenews_iOS_AL_Sticky_320x50",
+"adsWidth": 320,
+"adsHeight": 50,
+"showAds": true,
+"Fulid": false,
+"adsType": "STICKY_50"
+},
+{
+"adsid": "/11440465/Zeenews_iOS/Zeenews_iOS_AL_ATF_300x250",
+"adsWidth": 300,
+"adsHeight": 250,
+"showAds": true,
+"Fulid": false,
+"adsType": "ATF_250"
+},
+{
+"adsid": "/11440465/Zeenews_iOS/Zeenews_iOS_AL_Native_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": false,
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_iOS/Zeenews_iOS_AL_Native2_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"adsType": "Native2"
+},
+{
+"adsid": "/11440465/Zeenews_iOS/Zeenews_iOS_AL_Native3_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"adsType": "Native3"
+},
+{
+"adsid": "/11440465/Zeenews_iOS/Zeenews_iOS_AL_Native4_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"adsType": "Native4"
+},
+{
+"adsid": "/11440465/Zeenews_iOS/Zeenews_iOS_AL_Native5_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"adsType": "Native5"
+}
+],
+"homeAllAds": [
+{
+"adsid": "/11440465/Zeenews_AOS/Zeenews_AOS_HP_Native_India_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 848786,
+"sectionName": "india",
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_AOS/Zeenews_AOS_HP_Native_World_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 120186,
+"sectionName": "world",
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_AOS/Zeenews_AOS_HP_Native_States_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 120310,
+"sectionName": "states",
+"adsPosition": 2,
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_AOS/Zeenews_AOS_HP_Native_Entertainment_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 120082,
+"sectionName": "entertainment",
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_AOS/Zeenews_AOS_HP_Native_Sport_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 120890,
+"sectionName": "sports",
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_AOS/Zeenews_AOS_HP_Native_Business_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 657581,
+"sectionName": "business",
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_AOS/Zeenews_AOS_HP_Native_Health_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 120352,
+"sectionName": "health",
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_AOS/Zeenews_AOS_HP_Native_Technology_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 120563,
+"sectionName": "technology",
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_AOS/Zeenews_AOS_HP_Native_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 0,
+"sectionName": "featuredNews",
+"adsType": "native"
+},
+{
+"adsid": "/11440465/Zeenews_AOS/Zeenews_AOS_HP_ATF_320x50",
+"adsWidth": 320,
+"adsHeight": 50,
+"showAds": true,
+"Fulid": false,
+"sectionId": 0,
+"sectionName": null,
+"adsType": "ATF_50"
+},
+{
+"adsid": "/11440465/Zeenews_AOS/Zeenews_AOS_HP_ATF_300x250",
+"adsWidth": 300,
+"adsHeight": 250,
+"showAds": true,
+"Fulid": false,
+"sectionId": 0,
+"sectionName": "photos",
+"adsType": "ATF_250"
+},
+{
+"adsid": "/11440465/Zeenews_AOS/Zeenews_AOS_HP_BTF1_300x250",
+"adsWidth": 300,
+"adsHeight": 250,
+"showAds": true,
+"Fulid": false,
+"sectionId": 0,
+"sectionName": "entertainment",
+"adsType": "BTF_1_250"
+},
+{
+"adsid": "/11440465/Zeenews_AOS/Zeenews_AOS_HP_BTF2_300x250",
+"adsWidth": 300,
+"adsHeight": 250,
+"showAds": true,
+"Fulid": false,
+"sectionId": 0,
+"sectionName": "health",
+"adsType": "BTF_2_250"
+},
+{
+"adsid": "/11440465/Zeenews_AOS/Zeenews_AOS_HP_Sticky_320x50",
+"adsWidth": 320,
+"adsHeight": 50,
+"showAds": true,
+"Fulid": false,
+"sectionId": 0,
+"sectionName": null,
+"adsType": "Sticky_50"
+}
+],
+"storyPageAds": [
+{
+"adsid": "/11440465/Zeenews_AOS/Zeenews_AOS_AS_ATF_320x50",
+"adsWidth": 320,
+"adsHeight": 50,
+"showAds": true,
+"Fulid": false,
+"adsType": "ATF_50"
+},
+{
+"adsid": "/11440465/Zeenews_AOS/Zeenews_AOS_AS_ATF_300x250",
+"adsWidth": 300,
+"adsHeight": 250,
+"showAds": true,
+"Fulid": false,
+"adsType": "ATF_250"
+},
+{
+"adsid": "/11440465/Zeenews_AOS/Zeenews_AOS_AS_BTF1_300x250",
+"adsWidth": 300,
+"adsHeight": 250,
+"showAds": true,
+"Fulid": false,
+"adsType": "BTF_1_250"
+},
+{
+"adsid": "/11440465/Zeenews_AOS/Zeenews_AOS_AS_BTF2_300x250",
+"adsWidth": 300,
+"adsHeight": 250,
+"showAds": true,
+"Fulid": false,
+"adsType": "BTF_2_250"
+},
+{
+"adsid": "/11440465/Zeenews_AOS/Zeenews_AOS_AS_Sticky_320x50",
+"adsWidth": 320,
+"adsHeight": 50,
+"showAds": true,
+"Fulid": false,
+"adsType": "Sticky_50"
+},
+{
+"adsid": "/11440465/Zeenews_AOS/Zeenews_AOS_AS_Native_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"adsType": "Native"
+}
+],
+"sectionPageAds": [
+{
+"adsid": "/11440465/Zeenews_AOS/Zeenews_AOS_AL_ATF_320x50",
+"adsWidth": 320,
+"adsHeight": 50,
+"showAds": true,
+"Fulid": false,
+"adsType": "ATF_50"
+},
+{
+"adsid": "/11440465/Zeenews_AOS/Zeenews_AOS_AL_Sticky_320x50",
+"adsWidth": 320,
+"adsHeight": 50,
+"showAds": true,
+"Fulid": false,
+"adsType": "STICKY_50"
+},
+{
+"adsid": "/11440465/Zeenews_AOS/Zeenews_AOS_AL_ATF_300x250",
+"adsWidth": 300,
+"adsHeight": 250,
+"showAds": true,
+"Fulid": false,
+"adsType": "ATF_250"
+},
+{
+"adsid": "/11440465/Zeenews_AOS/Zeenews_AOS_AL_BTF_1_300x250",
+"adsWidth": 300,
+"adsHeight": 250,
+"showAds": true,
+"Fulid": false,
+"adsType": "BTF_1_250"
+},
+{
+"adsid": "/11440465/Zeenews_AOS/Zeenews_AOS_AL_BTF_2_300x250",
+"adsWidth": 300,
+"adsHeight": 250,
+"showAds": true,
+"Fulid": false,
+"adsType": "BTF_2_250"
+},
+{
+"adsid": "/11440465/Zeenews_AOS/Zeenews_AOS_AL_Native_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": false,
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_AOS/Zeenews_AOS_AL_Native2_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"adsType": "Native2"
+},
+{
+"adsid": "/11440465/Zeenews_AOS/Zeenews_AOS_AL_Native3_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"adsType": "Native3"
+},
+{
+"adsid": "/11440465/Zeenews_AOS/Zeenews_AOS_AL_Native4_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"adsType": "Native4"
+},
+{
+"adsid": "/11440465/Zeenews_AOS/Zeenews_AOS_AL_Native5_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"adsType": "Native5"
+}
+],
+"spAdsScriptATF": "<html><head><script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script><script>var googletag=googletag ||{}; googletag.cmd=googletag.cmd || [];</script><script>googletag.cmd.push(function(){googletag.defineSlot('/11440465/Zeenews_AOS/Zeenews_AOS_AS_ATF_300x250', [300, 250], 'div-gpt-ad-1551856938387-0').addService(googletag.pubads()); googletag.pubads().enableSingleRequest(); googletag.pubads().collapseEmptyDivs(); googletag.enableServices();});</script></head><body><div id='div-gpt-ad-1551856938387-0' style='height:250px; width:300px; margin: 0 auto;'><script>googletag.cmd.push(function(){googletag.display('div-gpt-ad-1551856938387-0');});</script></div></body></html>",
+"spAdsScriptBTF1": "<html><head><script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script><script>var googletag=googletag ||{}; googletag.cmd=googletag.cmd || [];</script><script>googletag.cmd.push(function(){googletag.defineSlot('/11440465/Zeenews_AOS/Zeenews_AOS_AS_BTF1_300x250', [300, 250], 'div-gpt-ad-1551856962472-0').addService(googletag.pubads()); googletag.pubads().enableSingleRequest(); googletag.pubads().collapseEmptyDivs(); googletag.enableServices();});</script></head><body><div id='div-gpt-ad-1551856962472-0' style='height:250px; width:300px; margin: 0 auto;'><script>googletag.cmd.push(function(){googletag.display('div-gpt-ad-1551856962472-0');});</script></div></body></html>",
+"spAdsScriptBTF2": "",
+"zeeTaboolaAds": {
+"publiserId": "zeemedia-zeenewsenglishandroid",
+"mode": "thumbs-feed-01",
+"placement": "Below Article Thumbnails",
+"pageUrl": "public-web-url-which-reflects-the-current-content",
+"pageType": "article",
+"targetType": "mix"
+}
+},
+{
+"name": "ZeeNews Hindi",
+"languageName": "Hindi",
+"sectionUrl": "http://st3.zeenews.india.com/liveapi/hindi/section.json",
+"sectionNewUrl": "http://st3.zeenews.india.com/liveapi/hindi/section_new.json",
+"homeUrl": "http://st3.zeenews.india.com/liveapi/hindi/index.json",
+"liveTVUrl": "http://st3.zeenews.india.com/liveapi/hindi/livetv.json",
+"briefNewsUrl": "http://st3.zeenews.india.com/liveapi/hindi/briefnews/index.json",
+"latestNewsUrl": "http://st3.zeenews.india.com/liveapi/hindi/latestnews/index.json",
+"photoSectionUrl": "http://st3.zeenews.india.com/liveapi/hindi/photos/index.json",
+"videoSectionUrl": "http://st3.zeenews.india.com/liveapi/hindi/videos/index.json",
+"aboutusUrl": "",
+"is_livetv": true,
+"searchUrl": "https://zeenews.india.com/hindi/mobileapi/search.php?searchstring=",
+"privacyPolicyUrl": "http://st3.zeenews.india.com/liveapi/english/privacy.json",
+"contactUsUrl": "http://st3.zeenews.india.com/liveapi/english/contact.json",
+"disclaimerUrl": "http://st3.zeenews.india.com/liveapi/english/disclaimer.json",
+"campaignUrl": "http://st3.zeenews.india.com/liveapi/hindi/campaign.json",
+"topic_post_url": "http://st3.zeenews.india.com/liveapi/hindi/posts/news_id/index.json",
+"topic_section_url": "http://st3.zeenews.india.com/liveapi/hindi/section_id/index.json",
+"homePageNativeVideo": "/11440465/Zeenews_Hindi_App_Homepage_NativeVideo",
+"homePageNativeStandard": "/11440465/Zeenews_Hindi_App_Homepage_NativeStandard",
+"rosNativeVideo": "/11440465/Zeenews_Hindi_App_ROS_NativeVideo",
+"rosNativeStandard": "/11440465/Zeenews_Hindi_App_ROS_NativeStandard",
+"articleMiddle300x250": "/11440465/Zeenews_Hindi_App_ArticleMiddle_300x250",
+"articleAfterStory300x250": "/11440465/Zeenews_Hindi_App_Article_300x250_ATF",
+"articleNativeVideo": "/11440465/Zeenews_Hindi_App_Article_NativeVideo",
+"photoListing300x250": "/11440465/Zeenews_Hindi_App_PhotoListing_300x250",
+"photoDetail300x250": "/11440465/Zeenews_Hindi_App_PhotoDetail_300x250",
+"splashNativeAdd": "/11440465/Zeenews_Hindi_App_SplashScreen",
+"termsOfUseUrl": "",
+"interstitialAd": "",
+"fullPostsUrl": "",
+"websiteUrl": "",
+"siteId": "",
+"trendingNewsUrl": "http://st3.zeenews.india.com/liveapi/hindi/trending/index.json",
+"livetv_token_url": "https://useraction.zee5.com/token/live.php",
+"livetv_streaming_url": "https://z5ams.akamaized.net/zeenews/index.m3u8",
+"homeNewsIndexing": [
+"electionCard",
+"breakingNews",
+"featuredNews",
+"cricketCard",
+"section1",
+"section2",
+"section3",
+"section4",
+"section5",
+"section6",
+"section7",
+"section8",
+"section9",
+"section10",
+"section11",
+"section12",
+"section13",
+"section14",
+"section15",
+"section16",
+"section17",
+"section18",
+"section19",
+"section20",
+"section21",
+"section22",
+"section23",
+"section24",
+"section25",
+"section26",
+"section27",
+"section28",
+"section29",
+"section30"
+],
+"vast": {
+"android": {
+"preroll": "",
+"midroll": "",
+"preroll_videos_url": "",
+"midroll_videos_url": "",
+"preroll_livetv_url": "",
+"midroll_livetv_url": "",
+"midroll_time_min": 10
+},
+"ios": {
+"preroll": "",
+"midroll": "",
+"preroll_videos_url": "",
+"midroll_videos_url": "",
+"preroll_livetv_url": "",
+"midroll_livetv_url": "",
+"midroll_time_min": 5
+}
+},
+"homeHeaderTag": [
+{
+"name": "होम",
+"viewType": "HOME",
+"sequence": 1,
+"url": "http://st3.zeenews.india.com/liveapi/hindi/index.json",
+"tagId": 0
+},
+{
+"name": "ब्रीफ",
+"viewType": "BRIEF",
+"sequence": 2,
+"url": "http://st3.zeenews.india.com/liveapi/hindi/briefnews/index.json",
+"tagId": 0
+},
+{
+"name": "लेटेस्ट",
+"viewType": "LATEST",
+"sequence": 3,
+"url": "http://st3.zeenews.india.com/liveapi/hindi/latestnews/index.json",
+"zeeUrl": "https://zeenews.india.com/hindi/mobileapi/latestnews.php",
+"tagId": 0
+}
+],
+"forceUpdateMessage": "यह एप्लिकेशन समाप्त हो गया है और इसका उपयोग नहीं किया जा सकता है। नवीनतम संस्करण प्राप्त करें!",
+"optionalUpdateMessage": "ज़ी न्यूज का एक नया संस्करण इंस्टॉलेशन के लिए उपलब्ध है। नवीनतम संस्करण आज ही प्राप्त करें!",
+"homeAllAdsIOS": [
+{
+"adsid": "/11440465/Zeenews_Hindi_iOS/Zeenews_Hindi_iOS_HP_Native_India_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 848786,
+"sectionName": "देश",
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_Hindi_iOS/Zeenews_Hindi_iOS_HP_Native_World_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 120186,
+"sectionName": "दुनिया",
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_Hindi_iOS/Zeenews_Hindi_iOS_HP_Native_States_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 120310,
+"sectionName": "प्रदेश",
+"adsPosition": 2,
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_Hindi_iOS/Zeenews_Hindi_iOS_HP_Native_Entertainment_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 120082,
+"sectionName": "बॉलीवुड",
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_Hindi_iOS/Zeenews_Hindi_iOS_HP_Native_Sport_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 120890,
+"sectionName": "क्रिकेट",
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_Hindi_iOS/Zeenews_Hindi_iOS_HP_Native_Business_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 657581,
+"sectionName": "बिजनेस",
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_Hindi_iOS/Zeenews_Hindi_iOS_HP_Native_Health_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 120352,
+"sectionName": "टेक",
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_Hindi_iOS/Zeenews_Hindi_iOS_HP_Native_Technology_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 120563,
+"sectionName": "टेक",
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_Hindi_iOS/Zeenews_Hindi_iOS_HP_Native_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 0,
+"sectionName": "featuredNews",
+"adsType": "native"
+},
+{
+"adsid": "/11440465/Zeenews_Hindi_iOS/Zeenews_Hindi_iOS_HP_ATF_320x50",
+"adsWidth": 320,
+"adsHeight": 50,
+"showAds": true,
+"Fulid": false,
+"sectionId": 0,
+"sectionName": null,
+"adsType": "ATF_50"
+},
+{
+"adsid": "/11440465/Zeenews_Hindi_iOS/Zeenews_Hindi_iOS_HP_ATF_300x250",
+"adsWidth": 300,
+"adsHeight": 250,
+"showAds": true,
+"Fulid": false,
+"sectionId": 0,
+"sectionName": null,
+"adsType": "ATF_250"
+},
+{
+"adsid": "/11440465/Zeenews_Hindi_iOS/Zeenews_Hindi_iOS_HP_BTF1_300x250",
+"adsWidth": 300,
+"adsHeight": 250,
+"showAds": true,
+"Fulid": false,
+"sectionId": 0,
+"sectionName": null,
+"adsType": "BTF_1_250"
+},
+{
+"adsid": "/11440465/Zeenews_Hindi_iOS/Zeenews_Hindi_iOS_HP_BTF2_300x250",
+"adsWidth": 300,
+"adsHeight": 250,
+"showAds": true,
+"Fulid": false,
+"sectionId": 0,
+"sectionName": null,
+"adsType": "BTF_2_250"
+},
+{
+"adsid": "/11440465/Zeenews_Hindi_iOS/Zeenews_Hindi_iOS_HP_Sticky_320x50",
+"adsWidth": 320,
+"adsHeight": 50,
+"showAds": true,
+"Fulid": false,
+"sectionId": 0,
+"sectionName": null,
+"adsType": "Sticky_50"
+}
+],
+"storyPageAdsIOS": [
+{
+"adsid": "/11440465/Zeenews_Hindi_iOS/Zeenews_Hindi_iOS_AS_ATF_320x50",
+"adsWidth": 320,
+"adsHeight": 50,
+"showAds": true,
+"Fulid": false,
+"adsType": "ATF_50"
+},
+{
+"adsid": "/11440465/Zeenews_Hindi_iOS/Zeenews_Hindi_iOS_AS_ATF_300x250",
+"adsWidth": 300,
+"adsHeight": 250,
+"showAds": true,
+"Fulid": false,
+"adsType": "ATF_250"
+},
+{
+"adsid": "/11440465/Zeenews_Hindi_iOS/Zeenews_Hindi_iOS_AS_BTF1_300x250",
+"adsWidth": 300,
+"adsHeight": 250,
+"showAds": true,
+"Fulid": false,
+"adsType": "BTF_1_250"
+},
+{
+"adsid": "/11440465/Zeenews_Hindi_iOS/Zeenews_Hindi_iOS_AS_BTF2_300x250",
+"adsWidth": 300,
+"adsHeight": 250,
+"showAds": true,
+"Fulid": false,
+"adsType": "BTF_2_250"
+},
+{
+"adsid": "/11440465/Zeenews_Hindi_iOS/Zeenews_Hindi_iOS_AS_Sticky_320x50",
+"adsWidth": 320,
+"adsHeight": 50,
+"showAds": true,
+"Fulid": false,
+"adsType": "Sticky_50"
+},
+{
+"adsid": "/11440465/Zeenews_Hindi_iOS/Zeenews_Hindi_iOS_AS_Native_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"adsType": "Native"
+}
+],
+"sectionPageAdsIOS": [
+{
+"adsid": "/11440465/Zeenews_Hindi_iOS/Zeenews_Hindi_iOS_AL_ATF_320x50",
+"adsWidth": 320,
+"adsHeight": 50,
+"showAds": true,
+"Fulid": false,
+"adsType": "ATF_50"
+},
+{
+"adsid": "/11440465/Zeenews_Hindi_iOS/Zeenews_Hindi_iOS_AL_ATF_300x250",
+"adsWidth": 300,
+"adsHeight": 250,
+"showAds": true,
+"Fulid": false,
+"adsType": "ATF_250"
+},
+{
+"adsid": "/11440465/Zeenews_Hindi_iOS/Zeenews_Hindi_iOS_AL_Sticky_320x50",
+"adsWidth": 320,
+"adsHeight": 50,
+"showAds": true,
+"Fulid": false,
+"adsType": "STICKY_50"
+},
+{
+"adsid": "/11440465/Zeenews_Hindi_iOS/Zeenews_Hindi_iOS_AL_Native_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": false,
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_Hindi_iOS/Zeenews_Hindi_oOS_AL_Native2_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"adsType": "Native2"
+},
+{
+"adsid": "/11440465/Zeenews_Hindi_iOS/Zeenews_Hindi_iOS_AL_Native3_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"adsType": "Native3"
+},
+{
+"adsid": "/11440465/Zeenews_Hindi_iOS/Zeenews_Hindi_iOS_AL_Native4_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"adsType": "Native4"
+},
+{
+"adsid": "/11440465/Zeenews_Hindi_iOS/Zeenews_Hindi_iOS_AL_Native5_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"adsType": "Native5"
+}
+],
+"homeAllAds": [
+{
+"adsid": "/11440465/Zeenews_Hindi_AOS/Zeenews_Hindi_AOS_HP_Native_India_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 848786,
+"sectionName": "देश",
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_Hindi_AOS/Zeenews_Hindi_AOS_HP_Native_World_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 120186,
+"sectionName": "दुनिया",
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_Hindi_AOS/Zeenews_Hindi_AOS_HP_Native_States_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 120310,
+"sectionName": "प्रदेश",
+"adsPosition": 2,
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_Hindi_AOS/Zeenews_Hindi_AOS_HP_Native_Entertainment_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 120082,
+"sectionName": "बॉलीवुड",
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_Hindi_AOS/Zeenews_Hindi_AOS_HP_Native_Sport_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 120890,
+"sectionName": "क्रिकेट",
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_Hindi_AOS/Zeenews_Hindi_AOS_HP_Native_Business_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 657581,
+"sectionName": "बिजनेस",
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_Hindi_AOS/Zeenews_Hindi_AOS_HP_Native_Health_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 120352,
+"sectionName": "टेक",
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_Hindi_AOS/Zeenews_Hindi_AOS_HP_Native_Technology_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 120563,
+"sectionName": "टेक",
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_Hindi_AOS/Zeenews_Hindi_AOS_HP_Native_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 0,
+"sectionName": "featuredNews",
+"adsType": "native"
+},
+{
+"adsid": "/11440465/Zeenews_Hindi_AOS/Zeenews_Hindi_AOS_HP_ATF_320x50",
+"adsWidth": 320,
+"adsHeight": 50,
+"showAds": true,
+"Fulid": false,
+"sectionId": 0,
+"sectionName": null,
+"adsType": "ATF_50"
+},
+{
+"adsid": "/11440465/Zeenews_Hindi_AOS/Zeenews_Hindi_AOS_HP_ATF_300x250",
+"adsWidth": 300,
+"adsHeight": 250,
+"showAds": true,
+"Fulid": false,
+"sectionId": 0,
+"sectionName": "फोटो गैलरी",
+"adsType": "ATF_250"
+},
+{
+"adsid": "/11440465/Zeenews_Hindi_AOS/Zeenews_Hindi_AOS_HP_BTF1_300x250",
+"adsWidth": 300,
+"adsHeight": 250,
+"showAds": true,
+"Fulid": false,
+"sectionId": 0,
+"sectionName": "मनोरंजन",
+"adsType": "BTF_1_250"
+},
+{
+"adsid": "/11440465/Zeenews_Hindi_AOS/Zeenews_Hindi_AOS_HP_BTF2_300x250",
+"adsWidth": 300,
+"adsHeight": 250,
+"showAds": true,
+"Fulid": false,
+"sectionId": 0,
+"sectionName": "हेल्थ",
+"adsType": "BTF_2_250"
+},
+{
+"adsid": "/11440465/Zeenews_Hindi_AOS/Zeenews_Hindi_AOS_HP_Sticky_320x50",
+"adsWidth": 320,
+"adsHeight": 50,
+"showAds": true,
+"Fulid": false,
+"sectionId": 0,
+"sectionName": null,
+"adsType": "Sticky_50"
+}
+],
+"storyPageAds": [
+{
+"adsid": "/11440465/Zeenews_Hindi_AOS/Zeenews_Hindi_AOS_AS_ATF_320x50",
+"adsWidth": 320,
+"adsHeight": 50,
+"showAds": true,
+"Fulid": false,
+"adsType": "ATF_50"
+},
+{
+"adsid": "/11440465/Zeenews_Hindi_AOS/Zeenews_Hindi_AOS_AS_ATF_300x250",
+"adsWidth": 300,
+"adsHeight": 250,
+"showAds": true,
+"Fulid": false,
+"adsType": "ATF_250"
+},
+{
+"adsid": "/11440465/Zeenews_Hindi_AOS/Zeenews_Hindi_AOS_AS_BTF1_300x250",
+"adsWidth": 300,
+"adsHeight": 250,
+"showAds": true,
+"Fulid": false,
+"adsType": "BTF_1_250"
+},
+{
+"adsid": "/11440465/Zeenews_Hindi_AOS/Zeenews_Hindi_AOS_AS_BTF2_300x250",
+"adsWidth": 300,
+"adsHeight": 250,
+"showAds": true,
+"Fulid": false,
+"adsType": "BTF_2_250"
+},
+{
+"adsid": "/11440465/Zeenews_Hindi_AOS/Zeenews_Hindi_AOS_AS_Sticky_320x50",
+"adsWidth": 320,
+"adsHeight": 50,
+"showAds": true,
+"Fulid": false,
+"adsType": "Sticky_50"
+},
+{
+"adsid": "/11440465/Zeenews_Hindi_AOS/Zeenews_Hindi_AOS_AS_Native_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"adsType": "Native"
+}
+],
+"sectionPageAds": [
+{
+"adsid": "/11440465/Zeenews_Hindi_AOS/Zeenews_Hindi_AOS_AL_ATF_320x50",
+"adsWidth": 320,
+"adsHeight": 50,
+"showAds": true,
+"Fulid": false,
+"adsType": "ATF_50"
+},
+{
+"adsid": "/11440465/Zeenews_Hindi_AOS/Zeenews_Hindi_AOS_AL_ATF_300x250",
+"adsWidth": 300,
+"adsHeight": 250,
+"showAds": true,
+"Fulid": false,
+"adsType": "ATF_250"
+},
+{
+"adsid": "/11440465/Zeenews_Hindi_AOS/Zeenews_Hindi_AOS_AL_BTF_1_300x250",
+"adsWidth": 300,
+"adsHeight": 250,
+"showAds": true,
+"Fulid": false,
+"adsType": "BTF_1_250"
+},
+{
+"adsid": "/11440465/Zeenews_Hindi_AOS/Zeenews_Hindi_AOS_AL_BTF_2_300x250",
+"adsWidth": 300,
+"adsHeight": 250,
+"showAds": true,
+"Fulid": false,
+"adsType": "BTF_2_250"
+},
+{
+"adsid": "/11440465/Zeenews_Hindi_AOS/Zeenews_Hindi_AOS_AL_Sticky_320x50",
+"adsWidth": 320,
+"adsHeight": 50,
+"showAds": true,
+"Fulid": false,
+"adsType": "STICKY_50"
+},
+{
+"adsid": "/11440465/Zeenews_Hindi_AOS/Zeenews_Hindi_AOS_AL_Native_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": false,
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_Hindi_AOS/Zeenews_Hindi_AOS_AL_Native2_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"adsType": "Native2"
+},
+{
+"adsid": "/11440465/Zeenews_Hindi_AOS/Zeenews_Hindi_AOS_AL_Native3_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"adsType": "Native3"
+},
+{
+"adsid": "/11440465/Zeenews_Hindi_AOS/Zeenews_Hindi_AOS_AL_Native4_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"adsType": "Native4"
+},
+{
+"adsid": "/11440465/Zeenews_Hindi_AOS/Zeenews_Hindi_AOS_AL_Native5_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"adsType": "Native5"
+}
+],
+"spAdsScriptATF": "<html><head><script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script><script>var googletag=googletag ||{}; googletag.cmd=googletag.cmd || [];</script><script>googletag.cmd.push(function(){googletag.defineSlot('/11440465/Zeenews_Hindi_AOS/Zeenews_Hindi_AOS_AS_ATF_300x250', [300, 250], 'div-gpt-ad-1551856938387-0').addService(googletag.pubads()); googletag.pubads().enableSingleRequest(); googletag.pubads().collapseEmptyDivs(); googletag.enableServices();});</script></head><body><div id='div-gpt-ad-1551856938387-0' style='height:250px; width:300px; margin: 0 auto;'><script>googletag.cmd.push(function(){googletag.display('div-gpt-ad-1551856938387-0');});</script></div></body></html>",
+"spAdsScriptBTF1": "<html><head><script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script><script>var googletag=googletag ||{}; googletag.cmd=googletag.cmd || [];</script><script>googletag.cmd.push(function(){googletag.defineSlot('/11440465/Zeenews_Hindi_AOS/Zeenews_Hindi_AOS_AS_BTF1_300x250', [300, 250], 'div-gpt-ad-1551856962472-0').addService(googletag.pubads()); googletag.pubads().enableSingleRequest(); googletag.pubads().collapseEmptyDivs(); googletag.enableServices();});</script></head><body><div id='div-gpt-ad-1551856962472-0' style='height:250px; width:300px; margin: 0 auto;'><script>googletag.cmd.push(function(){googletag.display('div-gpt-ad-1551856962472-0');});</script></div></body></html>",
+"spAdsScriptBTF2": "",
+"zeeTaboolaAds": {
+"publiserId": "zeemedia-zeenewshindiandroid",
+"mode": "thumbs-feed-01",
+"placement": "Below Article Thumbnails",
+"pageUrl": "public-web-url-which-reflects-the-current-content",
+"pageType": "article",
+"targetType": "mix"
+}
+},
+{
+"name": "ZeeNews Bengali",
+"languageName": "Bengali",
+"sectionUrl": "http://st3.zeenews.india.com/liveapi/bengali/section.json",
+"sectionNewUrl": "http://st3.zeenews.india.com/liveapi/bengali/section_new.json",
+"homeUrl": "http://st3.zeenews.india.com/liveapi/bengali/index.json",
+"liveTVUrl": "http://st3.zeenews.india.com/liveapi/bengali/livetv.json",
+"briefNewsUrl": "http://st3.zeenews.india.com/liveapi/bengali/briefnews/index.json",
+"latestNewsUrl": "http://st3.zeenews.india.com/liveapi/bengali/latestnews/index.json",
+"photoSectionUrl": "http://st3.zeenews.india.com/liveapi/bengali/photos/index.json",
+"videoSectionUrl": "http://st3.zeenews.india.com/liveapi/bengali/videos/index.json",
+"aboutusUrl": "",
+"is_livetv": true,
+"searchUrl": "https://zeenews.india.com/bengali/mobileapi/search.php?searchstring=",
+"privacyPolicyUrl": "http://st3.zeenews.india.com/liveapi/english/privacy.json",
+"contactUsUrl": "http://st3.zeenews.india.com/liveapi/english/contact.json",
+"disclaimerUrl": "http://st3.zeenews.india.com/liveapi/english/disclaimer.json",
+"campaignUrl": "http://st3.zeenews.india.com/liveapi/bengali/campaign.json",
+"topic_post_url": "http://st3.zeenews.india.com/liveapi/bengali/posts/news_id/index.json",
+"topic_section_url": "http://st3.zeenews.india.com/liveapi/bengali/section_id/index.json",
+"homePageNativeVideo": "/11440465/Zeenews_Hindi_App_Homepage_NativeVideo",
+"homePageNativeStandard": "/11440465/Zeenews_Hindi_App_Homepage_NativeStandard",
+"rosNativeVideo": "/11440465/Zeenews_Hindi_App_ROS_NativeVideo",
+"rosNativeStandard": "/11440465/Zeenews_Hindi_App_ROS_NativeStandard",
+"articleMiddle300x250": "/11440465/Zeenews_Hindi_App_ArticleMiddle_300x250",
+"articleAfterStory300x250": "/11440465/Zeenews_Hindi_App_Article_300x250_ATF",
+"articleNativeVideo": "/11440465/Zeenews_Hindi_App_Article_NativeVideo",
+"photoListing300x250": "/11440465/Zeenews_Hindi_App_PhotoListing_300x250",
+"photoDetail300x250": "/11440465/Zeenews_Hindi_App_PhotoDetail_300x250",
+"splashNativeAdd": "/11440465/Zeenews_Hindi_App_SplashScreen",
+"termsOfUseUrl": "",
+"interstitialAd": "",
+"fullPostsUrl": "",
+"websiteUrl": "",
+"siteId": "",
+"trendingNewsUrl": "http://st3.zeenews.india.com/liveapi/bengali/trending/index.json",
+"livetv_token_url": "https://useraction.zee5.com/token/live.php",
+"livetv_streaming_url": "https://z5ams.akamaized.net/24ghanta/index.m3u8",
+"homeNewsIndexing": [
+"electionCard",
+"breakingNews",
+"featuredNews",
+"cricketCard",
+"section1",
+"section2",
+"section3",
+"section4",
+"section5",
+"section6",
+"section7",
+"section8",
+"section9",
+"section10",
+"section11",
+"section12",
+"section13",
+"section14",
+"section15",
+"section16",
+"section17",
+"section18",
+"section19",
+"section20",
+"section21",
+"section22",
+"section23",
+"section24",
+"section25",
+"section26",
+"section27",
+"section28",
+"section29",
+"section30"
+],
+"vast": {
+"android": {
+"preroll": "",
+"midroll": "",
+"preroll_videos_url": "",
+"midroll_videos_url": "",
+"preroll_livetv_url": "",
+"midroll_livetv_url": "",
+"midroll_time_min": 10
+},
+"ios": {
+"preroll": "",
+"midroll": "",
+"preroll_videos_url": "",
+"midroll_videos_url": "",
+"preroll_livetv_url": "",
+"midroll_livetv_url": "",
+"midroll_time_min": 5
+}
+},
+"homeHeaderTag": [
+{
+"name": "হোম",
+"viewType": "HOME",
+"sequence": 1,
+"url": "http://st3.zeenews.india.com/liveapi/bengali/index.json",
+"tagId": 0
+},
+{
+"name": "সংক্ষেপ",
+"viewType": "BRIEF",
+"sequence": 2,
+"url": "http://st3.zeenews.india.com/liveapi/bengali/briefnews/index.json",
+"tagId": 0
+},
+{
+"name": "সর্বশেষ",
+"viewType": "LATEST",
+"sequence": 3,
+"url": "http://st3.zeenews.india.com/liveapi/bengali/latestnews/index.json",
+"zeeUrl": "https://zeenews.india.com/bengali/mobileapi/latestnews.php",
+"tagId": 0
+}
+],
+"forceUpdateMessage": "This app is expired and cannot be used. Get the Latest version!",
+"optionalUpdateMessage": "A new version of Zee News is available for installation.Get the latest version TODAY!",
+"homeAllAdsIOS": [
+{
+"adsid": "/11440465/Zeenews_Bengali_iOS/Zeenews_Bengali_iOS_HP_Native_India_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 848786,
+"sectionName": "রাজ্য",
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_Bengali_iOS/Zeenews_Bengali_iOS_HP_Native_World_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 120186,
+"sectionName": "দুনিয়া",
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_Bengali_iOS/Zeenews_Bengali_iOS_HP_Native_States_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 120310,
+"sectionName": "গ্যালারি",
+"adsPosition": 2,
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_Bengali_iOS/Zeenews_Bengali_iOS_HP_Native_Entertainment_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 120082,
+"sectionName": "বিনোদন",
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_Bengali_iOS/Zeenews_Bengali_iOS_HP_Native_Sport_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 120890,
+"sectionName": "খেলা",
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_Bengali_iOS/Zeenews_Bengali_iOS_HP_Native_Business_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 657581,
+"sectionName": "কলকাতা",
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_Bengali_iOS/Zeenews_Bengali_iOS_HP_Native_Health_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 120352,
+"sectionName": "टेक",
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_Bengali_iOS/Zeenews_Bengali_iOS_HP_Native_Technology_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 120563,
+"sectionName": "স্বাস্থ্য",
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_Bengali_iOS/Zeenews_Bengali_iOS_HP_Native_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 0,
+"sectionName": "featuredNews",
+"adsType": "native"
+},
+{
+"adsid": "/11440465/Zeenews_Bengali_iOS/Zeenews_Bengali_iOS_HP_ATF_320x50",
+"adsWidth": 320,
+"adsHeight": 50,
+"showAds": true,
+"Fulid": false,
+"sectionId": 0,
+"sectionName": null,
+"adsType": "ATF_50"
+},
+{
+"adsid": "/11440465/Zeenews_Bengali_iOS/Zeenews_Bengali_iOS_HP_ATF_300x250",
+"adsWidth": 300,
+"adsHeight": 250,
+"showAds": true,
+"Fulid": false,
+"sectionId": 0,
+"sectionName": null,
+"adsType": "ATF_250"
+},
+{
+"adsid": "/11440465/Zeenews_Bengali_iOS/Zeenews_Bengali_iOS_HP_BTF1_300x250",
+"adsWidth": 300,
+"adsHeight": 250,
+"showAds": true,
+"Fulid": false,
+"sectionId": 0,
+"sectionName": null,
+"adsType": "BTF_1_250"
+},
+{
+"adsid": "/11440465/Zeenews_Bengali_iOS/Zeenews_Bengali_iOS_HP_BTF2_300x250",
+"adsWidth": 300,
+"adsHeight": 250,
+"showAds": true,
+"Fulid": false,
+"sectionId": 0,
+"sectionName": null,
+"adsType": "BTF_2_250"
+},
+{
+"adsid": "/11440465/Zeenews_Bengali_iOS/Zeenews_Bengali_iOS_HP_Sticky_320x50",
+"adsWidth": 320,
+"adsHeight": 50,
+"showAds": true,
+"Fulid": false,
+"sectionId": 0,
+"sectionName": null,
+"adsType": "Sticky_50"
+}
+],
+"storyPageAds": [
+{
+"adsid": "/11440465/Zeenews_Bengali_AOS/Zeenews_Bengali_AOS_AS_ATF_320x50",
+"adsWidth": 320,
+"adsHeight": 50,
+"showAds": true,
+"Fulid": false,
+"adsType": "ATF_50"
+},
+{
+"adsid": "/11440465/Zeenews_Bengali_AOS/Zeenews_Bengali_AOS_AS_ATF_300x250",
+"adsWidth": 300,
+"adsHeight": 250,
+"showAds": true,
+"Fulid": false,
+"adsType": "ATF_250"
+},
+{
+"adsid": "/11440465/Zeenews_Bengali_AOS/Zeenews_Bengali_AOS_AS_BTF1_300x250",
+"adsWidth": 300,
+"adsHeight": 250,
+"showAds": true,
+"Fulid": false,
+"adsType": "BTF_1_250"
+},
+{
+"adsid": "/11440465/Zeenews_Bengali_AOS/Zeenews_Bengali_AOS_AS_BTF2_300x250",
+"adsWidth": 300,
+"adsHeight": 250,
+"showAds": true,
+"Fulid": false,
+"adsType": "BTF_2_250"
+},
+{
+"adsid": "/11440465/Zeenews_Bengali_AOS/Zeenews_Bengali_AOS_AS_Sticky_320x50",
+"adsWidth": 320,
+"adsHeight": 50,
+"showAds": true,
+"Fulid": false,
+"adsType": "Sticky_50"
+},
+{
+"adsid": "/11440465/Zeenews_Bengali_AOS/Zeenews_Bengali_AOS_AS_Native_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"adsType": "Native"
+}
+],
+"sectionPageAdsIOS": [
+{
+"adsid": "/11440465/Zeenews_Bengali_iOS/Zeenews_Bengali_iOS_AL_ATF_320x50",
+"adsWidth": 320,
+"adsHeight": 50,
+"showAds": true,
+"Fulid": false,
+"adsType": "ATF_50"
+},
+{
+"adsid": "/11440465/Zeenews_Bengali_iOS/Zeenews_Bengali_iOS_AL_ATF_300x250",
+"adsWidth": 300,
+"adsHeight": 250,
+"showAds": true,
+"Fulid": false,
+"adsType": "ATF_250"
+},
+{
+"adsid": "/11440465/Zeenews_Bengali_iOS/Zeenews_Bengali_iOS_AL_Sticky_320x50",
+"adsWidth": 320,
+"adsHeight": 50,
+"showAds": true,
+"Fulid": false,
+"adsType": "STICKY_50"
+},
+{
+"adsid": "/11440465/Zeenews_Bengali_iOS/Zeenews_Bengali_iOS_AL_Native_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": false,
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_Bengali_iOS/Zeenews_Bengali_iOS_AL_Native2_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"adsType": "Native2"
+},
+{
+"adsid": "/11440465/Zeenews_Bengali_iOS/Zeenews_Bengali_iOS_AL_Native3_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"adsType": "Native3"
+},
+{
+"adsid": "/11440465/Zeenews_Bengali_iOS/Zeenews_Bengali_iOS_AL_Native4_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"adsType": "Native4"
+},
+{
+"adsid": "/11440465/Zeenews_Bengali_iOS/Zeenews_Bengali_iOS_AL_Native5_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"adsType": "Native5"
+}
+],
+"homeAllAds": [
+{
+"adsid": "/11440465/Zeenews_Bengali_AOS/Zeenews_Bengali_AOS_HP_Native_India_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 848786,
+"sectionName": "রাজ্য",
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_Bengali_AOS/Zeenews_Bengali_AOS_HP_Native_World_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 120186,
+"sectionName": "দুনিয়া",
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_Bengali_AOS/Zeenews_Bengali_AOS_HP_Native_States_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 120310,
+"sectionName": "গ্যালারি",
+"adsPosition": 2,
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_Bengali_AOS/Zeenews_Bengali_AOS_HP_Native_Entertainment_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 120082,
+"sectionName": "বিনোদন",
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_Bengali_AOS/Zeenews_Bengali_AOS_HP_Native_Sport_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 120890,
+"sectionName": "খেলা",
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_Bengali_AOS/Zeenews_Bengali_AOS_HP_Native_Business_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 657581,
+"sectionName": "কলকাতা",
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_Bengali_AOS/Zeenews_Bengali_AOS_HP_Native_Health_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 120352,
+"sectionName": "टेक",
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_Bengali_AOS/Zeenews_Bengali_AOS_HP_Native_Technology_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 120563,
+"sectionName": "স্বাস্থ্য",
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_Bengali_AOS/Zeenews_Bengali_AOS_HP_Native_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 0,
+"sectionName": "featuredNews",
+"adsType": "native"
+},
+{
+"adsid": "/11440465/Zeenews_Bengali_AOS/Zeenews_Bengali_AOS_HP_ATF_320x50",
+"adsWidth": 320,
+"adsHeight": 50,
+"showAds": true,
+"Fulid": false,
+"sectionId": 0,
+"sectionName": null,
+"adsType": "ATF_50"
+},
+{
+"adsid": "/11440465/Zeenews_Bengali_AOS/Zeenews_Bengali_AOS_HP_ATF_300x250",
+"adsWidth": 300,
+"adsHeight": 250,
+"showAds": true,
+"Fulid": false,
+"sectionId": 0,
+"sectionName": "গ্যালারি",
+"adsType": "ATF_250"
+},
+{
+"adsid": "/11440465/Zeenews_Bengali_AOS/Zeenews_Bengali_AOS_HP_BTF1_300x250",
+"adsWidth": 300,
+"adsHeight": 250,
+"showAds": true,
+"Fulid": false,
+"sectionId": 0,
+"sectionName": "বিনোদন",
+"adsType": "BTF_1_250"
+},
+{
+"adsid": "/11440465/Zeenews_Bengali_AOS/Zeenews_Bengali_AOS_HP_BTF2_300x250",
+"adsWidth": 300,
+"adsHeight": 250,
+"showAds": true,
+"Fulid": false,
+"sectionId": 0,
+"sectionName": "স্বাস্থ্য",
+"adsType": "BTF_2_250"
+},
+{
+"adsid": "/11440465/Zeenews_Bengali_AOS/Zeenews_Bengali_AOS_HP_Sticky_320x50",
+"adsWidth": 320,
+"adsHeight": 50,
+"showAds": true,
+"Fulid": false,
+"sectionId": 0,
+"sectionName": null,
+"adsType": "Sticky_50"
+}
+],
+"sectionPageAds": [
+{
+"adsid": "/11440465/Zeenews_Bengali_AOS/Zeenews_Bengali_AOS_AL_ATF_320x50",
+"adsWidth": 320,
+"adsHeight": 50,
+"showAds": true,
+"Fulid": false,
+"adsType": "ATF_50"
+},
+{
+"adsid": "/11440465/Zeenews_Bengali_AOS/Zeenews_Bengali_AOS_AL_ATF_300x250",
+"adsWidth": 300,
+"adsHeight": 250,
+"showAds": true,
+"Fulid": false,
+"adsType": "ATF_250"
+},
+{
+"adsid": "/11440465/Zeenews_Bengali_AOS/Zeenews_Bengali_AOS_AL_BTF_1_300x250",
+"adsWidth": 300,
+"adsHeight": 250,
+"showAds": true,
+"Fulid": false,
+"adsType": "BTF_1_250"
+},
+{
+"adsid": "/11440465/Zeenews_Bengali_AOS/Zeenews_Bengali_AOS_AL_BTF_2_300x250",
+"adsWidth": 300,
+"adsHeight": 250,
+"showAds": true,
+"Fulid": false,
+"adsType": "BTF_2_250"
+},
+{
+"adsid": "/11440465/Zeenews_Bengali_AOS/Zeenews_Bengali_AOS_AL_Sticky_320x50",
+"adsWidth": 320,
+"adsHeight": 50,
+"showAds": true,
+"Fulid": false,
+"adsType": "STICKY_50"
+},
+{
+"adsid": "/11440465/Zeenews_Bengali_AOS/Zeenews_Bengali_AOS_AL_Native_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": false,
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_Bengali_AOS/Zeenews_Bengali_AOS_AL_Native2_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"adsType": "Native2"
+},
+{
+"adsid": "/11440465/Zeenews_Bengali_AOS/Zeenews_Bengali_AOS_AL_Native3_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"adsType": "Native3"
+},
+{
+"adsid": "/11440465/Zeenews_Bengali_AOS/Zeenews_Bengali_AOS_AL_Native4_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"adsType": "Native4"
+},
+{
+"adsid": "/11440465/Zeenews_Bengali_AOS/Zeenews_Bengali_AOS_AL_Native5_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"adsType": "Native5"
+}
+],
+"spAdsScriptATF": "<html><head><script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script><script>var googletag=googletag ||{}; googletag.cmd=googletag.cmd || [];</script><script>googletag.cmd.push(function(){googletag.defineSlot('/11440465/Zeenews_Bengali_AOS/Zeenews_Bengali_AOS_AS_ATF_300x250', [300, 250], 'div-gpt-ad-1551856938387-0').addService(googletag.pubads()); googletag.pubads().enableSingleRequest(); googletag.pubads().collapseEmptyDivs(); googletag.enableServices();});</script></head><body><div id='div-gpt-ad-1551856938387-0' style='height:250px; width:300px; margin: 0 auto;'><script>googletag.cmd.push(function(){googletag.display('div-gpt-ad-1551856938387-0');});</script></div></body></html>",
+"spAdsScriptBTF1": "<html><head><script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script><script>var googletag=googletag ||{}; googletag.cmd=googletag.cmd || [];</script><script>googletag.cmd.push(function(){googletag.defineSlot('/11440465/Zeenews_Bengali_AOS/Zeenews_Bengali_AOS_AS_BTF1_300x250', [300, 250], 'div-gpt-ad-1551856962472-0').addService(googletag.pubads()); googletag.pubads().enableSingleRequest(); googletag.pubads().collapseEmptyDivs(); googletag.enableServices();});</script></head><body><div id='div-gpt-ad-1551856962472-0' style='height:250px; width:300px; margin: 0 auto;'><script>googletag.cmd.push(function(){googletag.display('div-gpt-ad-1551856962472-0');});</script></div></body></html>",
+"spAdsScriptBTF2": "",
+"zeeTaboolaAds": {
+"publiserId": "zeemedia-zeenewsbengaliandroid",
+"mode": "thumbs-feed-01",
+"placement": "Below Article Thumbnails",
+"pageUrl": "public-web-url-which-reflects-the-current-content",
+"pageType": "article",
+"targetType": "mix"
+}
+},
+{
+"name": "ZeeNews Marathi",
+"languageName": "Marathi",
+"sectionUrl": "http://st3.zeenews.india.com/liveapi/marathi/section.json",
+"sectionNewUrl": "http://st3.zeenews.india.com/liveapi/marathi/section_new.json",
+"homeUrl": "http://st3.zeenews.india.com/liveapi/marathi/index.json",
+"liveTVUrl": "http://st3.zeenews.india.com/liveapi/marathi/livetv.json",
+"briefNewsUrl": "http://st3.zeenews.india.com/liveapi/marathi/briefnews/index.json",
+"latestNewsUrl": "http://st3.zeenews.india.com/liveapi/marathi/latestnews/index.json",
+"photoSectionUrl": "http://st3.zeenews.india.com/liveapi/marathi/photos/index.json",
+"videoSectionUrl": "http://st3.zeenews.india.com/liveapi/marathi/videos/index.json",
+"aboutusUrl": "",
+"is_livetv": true,
+"searchUrl": "https://zeenews.india.com/marathi/mobileapi/search.php?searchstring=",
+"privacyPolicyUrl": "http://st3.zeenews.india.com/liveapi/english/privacy.json",
+"contactUsUrl": "http://st3.zeenews.india.com/liveapi/english/contact.json",
+"disclaimerUrl": "http://st3.zeenews.india.com/liveapi/english/disclaimer.json",
+"campaignUrl": "http://st3.zeenews.india.com/liveapi/marathi/campaign.json",
+"topic_post_url": "http://st3.zeenews.india.com/liveapi/marathi/posts/news_id/index.json",
+"topic_section_url": "http://st3.zeenews.india.com/liveapi/marathi/section_id/index.json",
+"homePageNativeVideo": "/11440465/Zeenews_Hindi_App_Homepage_NativeVideo",
+"homePageNativeStandard": "/11440465/Zeenews_Hindi_App_Homepage_NativeStandard",
+"rosNativeVideo": "/11440465/Zeenews_Hindi_App_ROS_NativeVideo",
+"rosNativeStandard": "/11440465/Zeenews_Hindi_App_ROS_NativeStandard",
+"articleMiddle300x250": "/11440465/Zeenews_Hindi_App_ArticleMiddle_300x250",
+"articleAfterStory300x250": "/11440465/Zeenews_Hindi_App_Article_300x250_ATF",
+"articleNativeVideo": "/11440465/Zeenews_Hindi_App_Article_NativeVideo",
+"photoListing300x250": "/11440465/Zeenews_Hindi_App_PhotoListing_300x250",
+"photoDetail300x250": "/11440465/Zeenews_Hindi_App_PhotoDetail_300x250",
+"splashNativeAdd": "/11440465/Zeenews_Hindi_App_SplashScreen",
+"termsOfUseUrl": "",
+"interstitialAd": "",
+"fullPostsUrl": "",
+"websiteUrl": "",
+"siteId": "",
+"trendingNewsUrl": "http://st3.zeenews.india.com/liveapi/marathi/trending/index.json",
+"livetv_token_url": "https://useraction.zee5.com/token/live.php",
+"livetv_streaming_url": "https://z5ams.akamaized.net/24taas/index.m3u8",
+"homeNewsIndexing": [
+"electionCard",
+"breakingNews",
+"featuredNews",
+"cricketCard",
+"section1",
+"section2",
+"section3",
+"section4",
+"section5",
+"section6",
+"section7",
+"section8",
+"section9",
+"section10",
+"section11",
+"section12",
+"section13",
+"section14",
+"section15",
+"section16",
+"section17",
+"section18",
+"section19",
+"section20",
+"section21",
+"section22",
+"section23",
+"section24",
+"section25",
+"section26",
+"section27",
+"section28",
+"section29",
+"section30"
+],
+"vast": {
+"android": {
+"preroll": "",
+"midroll": "",
+"preroll_videos_url": "",
+"midroll_videos_url": "",
+"preroll_livetv_url": "",
+"midroll_livetv_url": "",
+"midroll_time_min": 10
+},
+"ios": {
+"preroll": "",
+"midroll": "",
+"preroll_videos_url": "",
+"midroll_videos_url": "",
+"preroll_livetv_url": "",
+"midroll_livetv_url": "",
+"midroll_time_min": 5
+}
+},
+"homeHeaderTag": [
+{
+"name": "होम",
+"viewType": "HOME",
+"sequence": 1,
+"url": "http://st3.zeenews.india.com/liveapi/marathi/index.json",
+"tagId": 0
+},
+{
+"name": "संक्षिप्त",
+"viewType": "BRIEF",
+"sequence": 2,
+"url": "http://st3.zeenews.india.com/liveapi/marathi/briefnews/index.json",
+"tagId": 0
+},
+{
+"name": "ताज्या बातम्या",
+"viewType": "LATEST",
+"sequence": 3,
+"url": "http://st3.zeenews.india.com/liveapi/marathi/latestnews/index.json",
+"zeeUrl": "https://zeenews.india.com/marathi/mobileapi/latestnews.php",
+"tagId": 0
+}
+],
+"forceUpdateMessage": "This app is expired and cannot be used. Get the Latest version!",
+"optionalUpdateMessage": "A new version of Zee News is available for installation.Get the latest version TODAY!",
+"homeAllAdsIOS": [
+{
+"adsid": "/11440465/Zeenews_Marathi_iOS/Zeenews_Marathi_iOS_HP_Native_India_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 848786,
+"sectionName": "भारत",
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_Marathi_iOS/Zeenews_Marathi_iOS_HP_Native_World_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 120186,
+"sectionName": "विश्व",
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_Marathi_iOS/Zeenews_Marathi_iOS_HP_Native_States_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 120310,
+"sectionName": "महाराष्ट्र",
+"adsPosition": 2,
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_Marathi_iOS/Zeenews_Marathi_iOS_HP_Native_Entertainment_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 120082,
+"sectionName": "मनोरंजन",
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_Marathi_iOS/Zeenews_Marathi_iOS_HP_Native_Sport_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 120890,
+"sectionName": "स्पोर्ट्स",
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_Marathi_iOS/Zeenews_Marathi_iOS_HP_Native_Business_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 657581,
+"sectionName": "मुंबई",
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_Marathi_iOS/Zeenews_Marathi_iOS_HP_Native_Health_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 120352,
+"sectionName": "आरोग्य",
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_Marathi_iOS/Zeenews_Marathi_iOS_HP_Native_Technology_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 120563,
+"sectionName": "टेक",
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_Marathi_iOS/Zeenews_Marathi_iOS_HP_Native_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 0,
+"sectionName": "featuredNews",
+"adsType": "native"
+},
+{
+"adsid": "/11440465/Zeenews_Marathi_iOS/Zeenews_Marathi_iOS_HP_ATF_320x50",
+"adsWidth": 320,
+"adsHeight": 50,
+"showAds": true,
+"Fulid": false,
+"sectionId": 0,
+"sectionName": null,
+"adsType": "ATF_50"
+},
+{
+"adsid": "/11440465/Zeenews_Marathi_iOS/Zeenews_Marathi_iOS_HP_ATF_300x250",
+"adsWidth": 300,
+"adsHeight": 250,
+"showAds": true,
+"Fulid": false,
+"sectionId": 0,
+"sectionName": null,
+"adsType": "ATF_250"
+},
+{
+"adsid": "/11440465/Zeenews_Marathi_iOS/Zeenews_Marathi_iOS_HP_BTF1_300x250",
+"adsWidth": 300,
+"adsHeight": 250,
+"showAds": true,
+"Fulid": false,
+"sectionId": 0,
+"sectionName": null,
+"adsType": "BTF_1_250"
+},
+{
+"adsid": "/11440465/Zeenews_Marathi_iOS/Zeenews_Marathi_iOS_HP_BTF2_300x250",
+"adsWidth": 300,
+"adsHeight": 250,
+"showAds": true,
+"Fulid": false,
+"sectionId": 0,
+"sectionName": null,
+"adsType": "BTF_2_250"
+},
+{
+"adsid": "/11440465/Zeenews_Marathi_iOS/Zeenews_Marathi_iOS_HP_Sticky_320x50",
+"adsWidth": 320,
+"adsHeight": 50,
+"showAds": true,
+"Fulid": false,
+"sectionId": 0,
+"sectionName": null,
+"adsType": "Sticky_50"
+}
+],
+"storyPageAdsIOS": [
+{
+"adsid": "/11440465/Zeenews_Marathi_iOS/Zeenews_Marathi_iOS_AS_ATF_320x50",
+"adsWidth": 320,
+"adsHeight": 50,
+"showAds": true,
+"Fulid": false,
+"adsType": "ATF_50"
+},
+{
+"adsid": "/11440465/Zeenews_Marathi_iOS/Zeenews_Marathi_iOS_AS_ATF_300x250",
+"adsWidth": 300,
+"adsHeight": 250,
+"showAds": true,
+"Fulid": false,
+"adsType": "ATF_250"
+},
+{
+"adsid": "/11440465/Zeenews_Marathi_iOS/Zeenews_Marathi_iOS_AS_BTF1_300x250",
+"adsWidth": 300,
+"adsHeight": 250,
+"showAds": true,
+"Fulid": false,
+"adsType": "BTF_1_250"
+},
+{
+"adsid": "/11440465/Zeenews_Marathi_iOS/Zeenews_Marathi_iOS_AS_BTF2_300x250",
+"adsWidth": 300,
+"adsHeight": 250,
+"showAds": true,
+"Fulid": false,
+"adsType": "BTF_2_250"
+},
+{
+"adsid": "/11440465/Zeenews_Marathi_iOS/Zeenews_Marathi_iOS_AS_Sticky_320x50",
+"adsWidth": 320,
+"adsHeight": 50,
+"showAds": true,
+"Fulid": false,
+"adsType": "Sticky_50"
+},
+{
+"adsid": "/11440465/Zeenews_Marathi_iOS/Zeenews_Marathi_iOS_AS_Native_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"adsType": "Native"
+}
+],
+"sectionPageAdsIOS": [
+{
+"adsid": "/11440465/Zeenews_Marathi_iOS/Zeenews_Marathi_iOS_AL_ATF_320x50",
+"adsWidth": 320,
+"adsHeight": 50,
+"showAds": true,
+"Fulid": false,
+"adsType": "ATF_50"
+},
+{
+"adsid": "/11440465/Zeenews_Marathi_iOS/Zeenews_Marathi_iOS_AL_ATF_300x250",
+"adsWidth": 300,
+"adsHeight": 250,
+"showAds": true,
+"Fulid": false,
+"adsType": "ATF_250"
+},
+{
+"adsid": "/11440465/Zeenews_Marathi_iOS/Zeenews_Marathi_iOS_AL_Sticky_320x50",
+"adsWidth": 320,
+"adsHeight": 50,
+"showAds": true,
+"Fulid": false,
+"adsType": "STICKY_50"
+},
+{
+"adsid": "/11440465/Zeenews_Marathi_iOS/Zeenews_Marathi_iOS_AL_Native_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": false,
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_Marathi_iOS/Zeenews_Marathi_iOS_AL_Native2_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"adsType": "Native2"
+},
+{
+"adsid": "/11440465/Zeenews_Marathi_iOS/Zeenews_Marathi_iOS_AL_Native3_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"adsType": "Native3"
+},
+{
+"adsid": "/11440465/Zeenews_Marathi_iOS/Zeenews_Marathi_iOS_AL_Native4_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"adsType": "Native4"
+},
+{
+"adsid": "/11440465/Zeenews_Marathi_iOS/Zeenews_Marathi_iOS_AL_Native5_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"adsType": "Native5"
+}
+],
+"homeAllAds": [
+{
+"adsid": "/11440465/Zeenews_Marathi_AOS/Zeenews_Marathi_AOS_HP_Native_India_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 848786,
+"sectionName": "भारत",
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_Marathi_AOS/Zeenews_Marathi_AOS_HP_Native_World_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 120186,
+"sectionName": "विश्व",
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_Marathi_AOS/Zeenews_Marathi_AOS_HP_Native_States_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 120310,
+"sectionName": "महाराष्ट्र",
+"adsPosition": 2,
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_Marathi_AOS/Zeenews_Marathi_AOS_HP_Native_Entertainment_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 120082,
+"sectionName": "मनोरंजन",
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_Marathi_AOS/Zeenews_Marathi_AOS_HP_Native_Sport_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 120890,
+"sectionName": "स्पोर्ट्स",
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_Marathi_AOS/Zeenews_Marathi_AOS_HP_Native_Business_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 657581,
+"sectionName": "मुंबई",
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_Marathi_AOS/Zeenews_Marathi_AOS_HP_Native_Health_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 120352,
+"sectionName": "आरोग्य",
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_Marathi_AOS/Zeenews_Marathi_AOS_HP_Native_Technology_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 120563,
+"sectionName": "टेक",
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_Marathi_AOS/Zeenews_Marathi_AOS_HP_Native_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 0,
+"sectionName": "featuredNews",
+"adsType": "native"
+},
+{
+"adsid": "/11440465/Zeenews_Marathi_AOS/Zeenews_Marathi_AOS_HP_ATF_320x50",
+"adsWidth": 320,
+"adsHeight": 50,
+"showAds": true,
+"Fulid": false,
+"sectionId": 0,
+"sectionName": null,
+"adsType": "ATF_50"
+},
+{
+"adsid": "/11440465/Zeenews_Marathi_AOS/Zeenews_Marathi_AOS_HP_ATF_300x250",
+"adsWidth": 300,
+"adsHeight": 250,
+"showAds": true,
+"Fulid": false,
+"sectionId": 0,
+"sectionName": "फोटो",
+"adsType": "ATF_250"
+},
+{
+"adsid": "/11440465/Zeenews_Marathi_AOS/Zeenews_Marathi_AOS_HP_BTF1_300x250",
+"adsWidth": 300,
+"adsHeight": 250,
+"showAds": true,
+"Fulid": false,
+"sectionId": 0,
+"sectionName": "मनोरंजन",
+"adsType": "BTF_1_250"
+},
+{
+"adsid": "/11440465/Zeenews_Marathi_AOS/Zeenews_Marathi_AOS_HP_BTF2_300x250",
+"adsWidth": 300,
+"adsHeight": 250,
+"showAds": true,
+"Fulid": false,
+"sectionId": 0,
+"sectionName": "हेल्थ",
+"adsType": "BTF_2_250"
+},
+{
+"adsid": "/11440465/Zeenews_Marathi_AOS/Zeenews_Marathi_AOS_HP_Sticky_320x50",
+"adsWidth": 320,
+"adsHeight": 50,
+"showAds": true,
+"Fulid": false,
+"sectionId": 0,
+"sectionName": null,
+"adsType": "Sticky_50"
+}
+],
+"storyPageAds": [
+{
+"adsid": "/11440465/Zeenews_Marathi_AOS/Zeenews_Marathi_AOS_AS_ATF_320x50",
+"adsWidth": 320,
+"adsHeight": 50,
+"showAds": true,
+"Fulid": false,
+"adsType": "ATF_50"
+},
+{
+"adsid": "/11440465/Zeenews_Marathi_AOS/Zeenews_Marathi_AOS_AS_ATF_300x250",
+"adsWidth": 300,
+"adsHeight": 250,
+"showAds": true,
+"Fulid": false,
+"adsType": "ATF_250"
+},
+{
+"adsid": "/11440465/Zeenews_Marathi_AOS/Zeenews_Marathi_AOS_AS_BTF1_300x250",
+"adsWidth": 300,
+"adsHeight": 250,
+"showAds": true,
+"Fulid": false,
+"adsType": "BTF_1_250"
+},
+{
+"adsid": "/11440465/Zeenews_Marathi_AOS/Zeenews_Marathi_AOS_AS_BTF2_300x250",
+"adsWidth": 300,
+"adsHeight": 250,
+"showAds": true,
+"Fulid": false,
+"adsType": "BTF_2_250"
+},
+{
+"adsid": "/11440465/Zeenews_Marathi_AOS/Zeenews_Marathi_AOS_AS_Sticky_320x50",
+"adsWidth": 320,
+"adsHeight": 50,
+"showAds": true,
+"Fulid": false,
+"adsType": "Sticky_50"
+},
+{
+"adsid": "/11440465/Zeenews_Marathi_AOS/Zeenews_Marathi_AOS_AS_Native_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"adsType": "Native"
+}
+],
+"sectionPageAds": [
+{
+"adsid": "/11440465/Zeenews_Marathi_AOS/Zeenews_Marathi_AOS_AL_ATF_320x50",
+"adsWidth": 320,
+"adsHeight": 50,
+"showAds": true,
+"Fulid": false,
+"adsType": "ATF_50"
+},
+{
+"adsid": "/11440465/Zeenews_Marathi_AOS/Zeenews_Marathi_AOS_AL_ATF_300x250",
+"adsWidth": 300,
+"adsHeight": 250,
+"showAds": true,
+"Fulid": false,
+"adsType": "ATF_250"
+},
+{
+"adsid": "/11440465/Zeenews_Marathi_AOS/Zeenews_Marathi_AOS_AL_BTF_1_300x250",
+"adsWidth": 300,
+"adsHeight": 250,
+"showAds": true,
+"Fulid": false,
+"adsType": "BTF_1_250"
+},
+{
+"adsid": "/11440465/Zeenews_Marathi_AOS/Zeenews_Marathi_AOS_AL_BTF_1_300x250",
+"adsWidth": 300,
+"adsHeight": 250,
+"showAds": true,
+"Fulid": false,
+"adsType": "BTF_2_250"
+},
+{
+"adsid": "/11440465/Zeenews_Marathi_AOS/Zeenews_Marathi_AOS_AL_Sticky_320x50",
+"adsWidth": 320,
+"adsHeight": 50,
+"showAds": true,
+"Fulid": false,
+"adsType": "STICKY_50"
+},
+{
+"adsid": "/11440465/Zeenews_Marathi_AOS/Zeenews_Marathi_AOS_AL_Native_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": false,
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_Marathi_AOS/Zeenews_Marathi_AOS_AL_Native2_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"adsType": "Native2"
+},
+{
+"adsid": "/11440465/Zeenews_Marathi_AOS/Zeenews_Marathi_AOS_AL_Native3_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"adsType": "Native3"
+},
+{
+"adsid": "/11440465/Zeenews_Marathi_AOS/Zeenews_Marathi_AOS_AL_Native4_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"adsType": "Native4"
+},
+{
+"adsid": "/11440465/Zeenews_Marathi_AOS/Zeenews_Marathi_AOS_AL_Native5_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"adsType": "Native5"
+}
+],
+"spAdsScriptATF": "<html><head><script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script><script>var googletag=googletag ||{}; googletag.cmd=googletag.cmd || [];</script><script>googletag.cmd.push(function(){googletag.defineSlot('/11440465/Zeenews_Marathi_AOS/Zeenews_Marathi_AOS_AS_ATF_300x250', [300, 250], 'div-gpt-ad-1551856938387-0').addService(googletag.pubads()); googletag.pubads().enableSingleRequest(); googletag.pubads().collapseEmptyDivs(); googletag.enableServices();});</script></head><body><div id='div-gpt-ad-1551856938387-0' style='height:250px; width:300px; margin: 0 auto;'><script>googletag.cmd.push(function(){googletag.display('div-gpt-ad-1551856938387-0');});</script></div></body></html>",
+"spAdsScriptBTF1": "<html><head><script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script><script>var googletag=googletag ||{}; googletag.cmd=googletag.cmd || [];</script><script>googletag.cmd.push(function(){googletag.defineSlot('/11440465/Zeenews_Marathi_AOS/Zeenews_Marathi_AOS_AS_BTF1_300x250', [300, 250], 'div-gpt-ad-1551856962472-0').addService(googletag.pubads()); googletag.pubads().enableSingleRequest(); googletag.pubads().collapseEmptyDivs(); googletag.enableServices();});</script></head><body><div id='div-gpt-ad-1551856962472-0' style='height:250px; width:300px; margin: 0 auto;'><script>googletag.cmd.push(function(){googletag.display('div-gpt-ad-1551856962472-0');});</script></div></body></html>",
+"spAdsScriptBTF2": "",
+"zeeTaboolaAds": {
+"publiserId": "zeemedia-zeenewsmarathiandroid",
+"mode": "thumbs-feed-01",
+"placement": "Below Article Thumbnails",
+"pageUrl": "public-web-url-which-reflects-the-current-content",
+"pageType": "article",
+"targetType": "mix"
+}
+},
+{
+"name": "ZeeNews Tamil",
+"languageName": "Tamil",
+"sectionUrl": "http://st3.zeenews.india.com/liveapi/tamil/section.json",
+"sectionNewUrl": "http://st3.zeenews.india.com/liveapi/tamil/section_new.json",
+"homeUrl": "http://st3.zeenews.india.com/liveapi/tamil/index.json",
+"liveTVUrl": "",
+"briefNewsUrl": "",
+"latestNewsUrl": "http://st3.zeenews.india.com/liveapi/tamil/latestnews/index.json",
+"photoSectionUrl": "http://st3.zeenews.india.com/liveapi/tamil/photos/index.json",
+"videoSectionUrl": "",
+"aboutusUrl": "",
+"is_livetv": false,
+"searchUrl": " https://zeenews.india.com/tamil/mobileapi/search.php?searchstring=",
+"privacyPolicyUrl": "http://st3.zeenews.india.com/liveapi/english/privacy.json",
+"contactUsUrl": "http://st3.zeenews.india.com/liveapi/english/contact.json",
+"disclaimerUrl": "http://st3.zeenews.india.com/liveapi/english/disclaimer.json",
+"campaignUrl": "http://st3.zeenews.india.com/liveapi/tamil/campaign.json",
+"topic_post_url": "http://st3.zeenews.india.com/liveapi/tamil/posts/news_id/index.json",
+"topic_section_url": "http://st3.zeenews.india.com/liveapi/tamil/section_id/index.json",
+"homePageNativeVideo": "/11440465/Zeenews_Hindi_App_Homepage_NativeVideo",
+"homePageNativeStandard": "/11440465/Zeenews_Hindi_App_Homepage_NativeStandard",
+"rosNativeVideo": "/11440465/Zeenews_Hindi_App_ROS_NativeVideo",
+"rosNativeStandard": "/11440465/Zeenews_Hindi_App_ROS_NativeStandard",
+"articleMiddle300x250": "/11440465/Zeenews_Hindi_App_ArticleMiddle_300x250",
+"articleAfterStory300x250": "/11440465/Zeenews_Hindi_App_Article_300x250_ATF",
+"articleNativeVideo": "/11440465/Zeenews_Hindi_App_Article_NativeVideo",
+"photoListing300x250": "/11440465/Zeenews_Hindi_App_PhotoListing_300x250",
+"photoDetail300x250": "/11440465/Zeenews_Hindi_App_PhotoDetail_300x250",
+"splashNativeAdd": "/11440465/Zeenews_Hindi_App_SplashScreen",
+"termsOfUseUrl": "",
+"interstitialAd": "",
+"fullPostsUrl": "",
+"websiteUrl": "",
+"siteId": "",
+"trendingNewsUrl": "http://st3.zeenews.india.com/liveapi/tamil/trending/index.json",
+"livetv_token_url": "",
+"livetv_streaming_url": "",
+"homeNewsIndexing": [
+"electionCard",
+"breakingNews",
+"featuredNews",
+"cricketCard",
+"section1",
+"section2",
+"section3",
+"section4",
+"section5",
+"section6",
+"section7",
+"section8",
+"section9",
+"section10",
+"section11",
+"section12",
+"section13",
+"section14",
+"section15",
+"section16",
+"section17",
+"section18",
+"section19",
+"section20",
+"section21",
+"section22",
+"section23",
+"section24",
+"section25",
+"section26",
+"section27",
+"section28",
+"section29",
+"section30"
+],
+"vast": {
+"android": {
+"preroll": "",
+"midroll": "",
+"preroll_videos_url": "",
+"midroll_videos_url": "",
+"preroll_livetv_url": "",
+"midroll_livetv_url": "",
+"midroll_time_min": 10
+},
+"ios": {
+"preroll": "",
+"midroll": "",
+"preroll_videos_url": "",
+"midroll_videos_url": "",
+"preroll_livetv_url": "",
+"midroll_livetv_url": "",
+"midroll_time_min": 5
+}
+},
+"homeHeaderTag": [
+{
+"name": "முகப்பு",
+"viewType": "HOME",
+"sequence": 1,
+"url": "http://st3.zeenews.india.com/liveapi/tamil/index.json",
+"tagId": 0
+},
+{
+"name": "சுருக்கமான",
+"viewType": "BRIEF",
+"sequence": 2,
+"url": "",
+"tagId": 0
+},
+{
+"name": "தற்போது",
+"viewType": "LATEST",
+"sequence": 3,
+"url": "http://st3.zeenews.india.com/liveapi/tamil/latestnews/index.json",
+"zeeUrl": "https://zeenews.india.com/tamil/mobileapi/latestnews.php",
+"tagId": 0
+}
+],
+"forceUpdateMessage": "This app is expired and cannot be used. Get the Latest version!",
+"optionalUpdateMessage": "A new version of Zee News is available for installation.Get the latest version TODAY!",
+"homeAllAdsIOS": [
+{
+"adsid": "/11440465/Zeenews_Tamil_iOS/Zeenews_Tamil_iOS_HP_Native_India_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 848786,
+"sectionName": "இந்தியா",
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_Tamil_iOS/Zeenews_Tamil_iOS_HP_Native_World_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 120186,
+"sectionName": "உலகம்",
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_Tamil_iOS/Zeenews_Tamil_iOS_HP_Native_States_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 120310,
+"sectionName": "தமிழ்நாடு",
+"adsPosition": 2,
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_Tamil_iOS/Zeenews_Tamil_iOS_HP_Native_Entertainment_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 120082,
+"sectionName": "சினிமா",
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_Tamil_iOS/Zeenews_Tamil_iOS_HP_Native_Sport_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 120890,
+"sectionName": "விளையாட்டு",
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_Tamil_iOS/Zeenews_Tamil_iOS_HP_Native_Business_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 657581,
+"sectionName": "ஆன்மிகம்",
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_Tamil_iOS/Zeenews_Tamil_iOS_HP_Native_Health_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 120352,
+"sectionName": "ஆரோக்கியம்",
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_Tamil_iOS/Zeenews_Tamil_iOS_HP_Native_Technology_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 120563,
+"sectionName": "தொழில்நுட்பம்",
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_Tamil_iOS/Zeenews_Tamil_iOS_HP_Native_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 0,
+"sectionName": "featuredNews",
+"adsType": "native"
+},
+{
+"adsid": "/11440465/Zeenews_Tamil_iOS/Zeenews_Tamil_iOS_HP_ATF_320x50",
+"adsWidth": 320,
+"adsHeight": 50,
+"showAds": true,
+"Fulid": false,
+"sectionId": 0,
+"sectionName": null,
+"adsType": "ATF_50"
+},
+{
+"adsid": "/11440465/Zeenews_Tamil_iOS/Zeenews_Tamil_iOS_HP_ATF_300x250",
+"adsWidth": 300,
+"adsHeight": 250,
+"showAds": true,
+"Fulid": false,
+"sectionId": 0,
+"sectionName": null,
+"adsType": "ATF_250"
+},
+{
+"adsid": "/11440465/Zeenews_Tamil_iOS/Zeenews_Tamil_iOS_HP_BTF1_300x250",
+"adsWidth": 300,
+"adsHeight": 250,
+"showAds": true,
+"Fulid": false,
+"sectionId": 0,
+"sectionName": null,
+"adsType": "BTF_1_250"
+},
+{
+"adsid": "/11440465/Zeenews_Tamil_iOS/Zeenews_Tamil_iOS_HP_BTF2_300x250",
+"adsWidth": 300,
+"adsHeight": 250,
+"showAds": true,
+"Fulid": false,
+"sectionId": 0,
+"sectionName": null,
+"adsType": "BTF_2_250"
+},
+{
+"adsid": "/11440465/Zeenews_Tamil_iOS/Zeenews_Tamil_iOS_HP_Sticky_320x50",
+"adsWidth": 320,
+"adsHeight": 50,
+"showAds": true,
+"Fulid": false,
+"sectionId": 0,
+"sectionName": null,
+"adsType": "Sticky_50"
+}
+],
+"storyPageAdsIOS": [
+{
+"adsid": "/11440465/Zeenews_Tamil_iOS/Zeenews_Tamil_iOS_AS_ATF_320x50",
+"adsWidth": 320,
+"adsHeight": 50,
+"showAds": true,
+"Fulid": false,
+"adsType": "ATF_50"
+},
+{
+"adsid": "/11440465/Zeenews_Tamil_iOS/Zeenews_Tamil_iOS_AS_ATF_300x250",
+"adsWidth": 300,
+"adsHeight": 250,
+"showAds": true,
+"Fulid": false,
+"adsType": "ATF_250"
+},
+{
+"adsid": "/11440465/Zeenews_Tamil_iOS/Zeenews_Tamil_iOS_AS_BTF1_300x250",
+"adsWidth": 300,
+"adsHeight": 250,
+"showAds": true,
+"Fulid": false,
+"adsType": "BTF_1_250"
+},
+{
+"adsid": "/11440465/Zeenews_Tamil_iOS/Zeenews_Tamil_iOS_AS_BTF2_300x250",
+"adsWidth": 300,
+"adsHeight": 250,
+"showAds": true,
+"Fulid": false,
+"adsType": "BTF_2_250"
+},
+{
+"adsid": "/11440465/Zeenews_Tamil_iOS/Zeenews_Tamil_iOS_AS_Sticky_320x50",
+"adsWidth": 320,
+"adsHeight": 50,
+"showAds": true,
+"Fulid": false,
+"adsType": "Sticky_50"
+},
+{
+"adsid": "/11440465/Zeenews_Tamil_iOS/Zeenews_Tamil_iOS_AS_Native_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"adsType": "Native"
+}
+],
+"sectionPageAdsIOS": [
+{
+"adsid": "/11440465/Zeenews_Tamil_iOS/Zeenews_Tamil_iOS_AL_ATF_320x50",
+"adsWidth": 320,
+"adsHeight": 50,
+"showAds": true,
+"Fulid": false,
+"adsType": "ATF_50"
+},
+{
+"adsid": "/11440465/Zeenews_Tamil_iOS/Zeenews_Tamil_iOS_AL_ATF_300x250",
+"adsWidth": 300,
+"adsHeight": 250,
+"showAds": true,
+"Fulid": false,
+"adsType": "ATF_250"
+},
+{
+"adsid": "/11440465/Zeenews_Tamil_iOS/Zeenews_Tamil_iOS_AL_Sticky_320x50",
+"adsWidth": 320,
+"adsHeight": 50,
+"showAds": true,
+"Fulid": false,
+"adsType": "STICKY_50"
+},
+{
+"adsid": "/11440465/Zeenews_Tamil_iOS/Zeenews_Tamil_iOS_AL_Native_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": false,
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_Tamil_iOS/Zeenews_Tamil_iOS_AL_Native2_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"adsType": "Native2"
+},
+{
+"adsid": "/11440465/Zeenews_Tamil_iOS/Zeenews_Tamil_iOS_AL_Native3_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"adsType": "Native3"
+},
+{
+"adsid": "/11440465/Zeenews_Tamil_iOS/Zeenews_Tamil_iOS_AL_Native4_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"adsType": "Native4"
+},
+{
+"adsid": "/11440465/Zeenews_Tamil_iOS/Zeenews_Tamil_iOS_AL_Native5_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"adsType": "Native5"
+}
+],
+"homeAllAds": [
+{
+"adsid": "/11440465/Zeenews_Tamil_AOS/Zeenews_Tamil_AOS_HP_Native_India_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 848786,
+"sectionName": "இந்தியா",
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_Tamil_AOS/Zeenews_Tamil_AOS_HP_Native_World_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 120186,
+"sectionName": "உலகம்",
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_Tamil_AOS/Zeenews_Tamil_AOS_HP_Native_States_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 120310,
+"sectionName": "தமிழ்நாடு",
+"adsPosition": 2,
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_Tamil_AOS/Zeenews_Tamil_AOS_HP_Native_Entertainment_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 120082,
+"sectionName": "சினிமா",
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_Tamil_AOS/Zeenews_Tamil_AOS_HP_Native_Sport_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 120890,
+"sectionName": "விளையாட்டு",
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_Tamil_AOS/Zeenews_Tamil_AOS_HP_Native_Business_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 657581,
+"sectionName": "ஆன்மிகம்",
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_Tamil_AOS/Zeenews_Tamil_AOS_HP_Native_Health_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 120352,
+"sectionName": "ஆரோக்கியம்",
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_Tamil_AOS/Zeenews_Tamil_AOS_HP_Native_Technology_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 120563,
+"sectionName": "தொழில்நுட்பம்",
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_Tamil_AOS/Zeenews_Tamil_AOS_HP_Native_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 0,
+"sectionName": "featuredNews",
+"adsType": "native"
+},
+{
+"adsid": "/11440465/Zeenews_Tamil_AOS/Zeenews_Tamil_AOS_HP_ATF_320x50",
+"adsWidth": 320,
+"adsHeight": 50,
+"showAds": true,
+"Fulid": false,
+"sectionId": 0,
+"sectionName": null,
+"adsType": "ATF_50"
+},
+{
+"adsid": "/11440465/Zeenews_Tamil_AOS/Zeenews_Tamil_AOS_HP_ATF_300x250",
+"adsWidth": 300,
+"adsHeight": 250,
+"showAds": true,
+"Fulid": false,
+"sectionId": 0,
+"sectionName": "கேலரி",
+"adsType": "ATF_250"
+},
+{
+"adsid": "/11440465/Zeenews_Tamil_AOS/Zeenews_Tamil_AOS_HP_BTF1_300x250",
+"adsWidth": 300,
+"adsHeight": 250,
+"showAds": true,
+"Fulid": false,
+"sectionId": 0,
+"sectionName": null,
+"adsType": "BTF_1_250"
+},
+{
+"adsid": "/11440465/Zeenews_Tamil_AOS/Zeenews_Tamil_AOS_HP_BTF2_300x250",
+"adsWidth": 300,
+"adsHeight": 250,
+"showAds": true,
+"Fulid": false,
+"sectionId": 0,
+"sectionName": "ஆரோக்கியம்",
+"adsType": "BTF_2_250"
+},
+{
+"adsid": "/11440465/Zeenews_Tamil_AOS/Zeenews_Tamil_AOS_HP_Sticky_320x50",
+"adsWidth": 320,
+"adsHeight": 50,
+"showAds": true,
+"Fulid": false,
+"sectionId": 0,
+"sectionName": null,
+"adsType": "Sticky_50"
+}
+],
+"storyPageAds": [
+{
+"adsid": "/11440465/Zeenews_Tamil_AOS/Zeenews_Tamil_AOS_AS_ATF_320x50",
+"adsWidth": 320,
+"adsHeight": 50,
+"showAds": true,
+"Fulid": false,
+"adsType": "ATF_50"
+},
+{
+"adsid": "/11440465/Zeenews_Tamil_AOS/Zeenews_Tamil_AOS_AS_ATF_300x250",
+"adsWidth": 300,
+"adsHeight": 250,
+"showAds": true,
+"Fulid": false,
+"adsType": "ATF_250"
+},
+{
+"adsid": "/11440465/Zeenews_Tamil_AOS/Zeenews_Tamil_AOS_AS_BTF1_300x250",
+"adsWidth": 300,
+"adsHeight": 250,
+"showAds": true,
+"Fulid": false,
+"adsType": "BTF_1_250"
+},
+{
+"adsid": "/11440465/Zeenews_Tamil_AOS/Zeenews_Tamil_AOS_AS_BTF2_300x250",
+"adsWidth": 300,
+"adsHeight": 250,
+"showAds": true,
+"Fulid": false,
+"adsType": "BTF_2_250"
+},
+{
+"adsid": "/11440465/Zeenews_Tamil_AOS/Zeenews_Tamil_AOS_AS_Sticky_320x50",
+"adsWidth": 320,
+"adsHeight": 50,
+"showAds": true,
+"Fulid": false,
+"adsType": "Sticky_50"
+},
+{
+"adsid": "/11440465/Zeenews_Tamil_AOS/Zeenews_Tamil_AOS_AS_Native_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"adsType": "Native"
+}
+],
+"sectionPageAds": [
+{
+"adsid": "/11440465/Zeenews_Tamil_AOS/Zeenews_Tamil_AOS_AL_ATF_320x50",
+"adsWidth": 320,
+"adsHeight": 50,
+"showAds": true,
+"Fulid": false,
+"adsType": "ATF_50"
+},
+{
+"adsid": "/11440465/Zeenews_Tamil_AOS/Zeenews_Tamil_AOS_AL_ATF_300x250",
+"adsWidth": 300,
+"adsHeight": 250,
+"showAds": true,
+"Fulid": false,
+"adsType": "ATF_250"
+},
+{
+"adsid": "/11440465/Zeenews_Tamil_AOS/Zeenews_Tamil_AOS_AL_BTF_1_300x250",
+"adsWidth": 300,
+"adsHeight": 250,
+"showAds": true,
+"Fulid": false,
+"adsType": "BTF_1_250"
+},
+{
+"adsid": "/11440465/Zeenews_Tamil_AOS/Zeenews_Tamil_AOS_AL_BTF_2_300x250",
+"adsWidth": 300,
+"adsHeight": 250,
+"showAds": true,
+"Fulid": false,
+"adsType": "BTF_2_250"
+},
+{
+"adsid": "/11440465/Zeenews_Tamil_AOS/Zeenews_Tamil_AOS_AL_Sticky_320x50",
+"adsWidth": 320,
+"adsHeight": 50,
+"showAds": true,
+"Fulid": false,
+"adsType": "STICKY_50"
+},
+{
+"adsid": "/11440465/Zeenews_Tamil_AOS/Zeenews_Tamil_AOS_AL_Native_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": false,
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_Tamil_AOS/Zeenews_Tamil_AOS_AL_Native2_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"adsType": "Native2"
+},
+{
+"adsid": "/11440465/Zeenews_Tamil_AOS/Zeenews_Tamil_AOS_AL_Native3_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"adsType": "Native3"
+},
+{
+"adsid": "/11440465/Zeenews_Tamil_AOS/Zeenews_Tamil_AOS_AL_Native4_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"adsType": "Native4"
+},
+{
+"adsid": "/11440465/Zeenews_Tamil_AOS/Zeenews_Tamil_AOS_AL_Native5_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"adsType": "Native5"
+}
+],
+"spAdsScriptATF": "<html><head><script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script><script>var googletag=googletag ||{}; googletag.cmd=googletag.cmd || [];</script><script>googletag.cmd.push(function(){googletag.defineSlot('/11440465/Zeenews_Tamil_AOS/Zeenews_Tamil_AOS_AS_ATF_300x250', [300, 250], 'div-gpt-ad-1551856938387-0').addService(googletag.pubads()); googletag.pubads().enableSingleRequest(); googletag.pubads().collapseEmptyDivs(); googletag.enableServices();});</script></head><body><div id='div-gpt-ad-1551856938387-0' style='height:250px; width:300px; margin: 0 auto;'><script>googletag.cmd.push(function(){googletag.display('div-gpt-ad-1551856938387-0');});</script></div></body></html>",
+"spAdsScriptBTF1": "<html><head><script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script><script>var googletag=googletag ||{}; googletag.cmd=googletag.cmd || [];</script><script>googletag.cmd.push(function(){googletag.defineSlot('/11440465/Zeenews_Tamil_AOS/Zeenews_Tamil_AOS_AS_BTF1_300x250', [300, 250], 'div-gpt-ad-1551856962472-0').addService(googletag.pubads()); googletag.pubads().enableSingleRequest(); googletag.pubads().collapseEmptyDivs(); googletag.enableServices();});</script></head><body><div id='div-gpt-ad-1551856962472-0' style='height:250px; width:300px; margin: 0 auto;'><script>googletag.cmd.push(function(){googletag.display('div-gpt-ad-1551856962472-0');});</script></div></body></html>",
+"spAdsScriptBTF2": "",
+"zeeTaboolaAds": {
+"publiserId": "zeemedia-zeenewstamilandroid",
+"mode": "thumbs-feed-01",
+"placement": "Below Article Thumbnails",
+"pageUrl": "public-web-url-which-reflects-the-current-content",
+"pageType": "article",
+"targetType": "mix"
+}
+},
+{
+"name": "ZeeNews Malayalam",
+"languageName": "Malayalam",
+"sectionUrl": "http://st3.zeenews.india.com/liveapi/malayalam/section.json",
+"sectionNewUrl": "http://st3.zeenews.india.com/liveapi/malayalam/section_new.json",
+"homeUrl": "http://st3.zeenews.india.com/liveapi/malayalam/index.json",
+"liveTVUrl": "http://st3.zeenews.india.com/liveapi/malayalam/livetv.json",
+"briefNewsUrl": "http://st3.zeenews.india.com/liveapi/malayalam/briefnews/index.json",
+"latestNewsUrl": "http://st3.zeenews.india.com/liveapi/malayalam/latestnews/index.json",
+"photoSectionUrl": "http://st3.zeenews.india.com/liveapi/malayalam/photos/index.json",
+"videoSectionUrl": "http://st3.zeenews.india.com/liveapi/malayalam/videos/index.json",
+"aboutusUrl": "",
+"is_livetv": false,
+"searchUrl": "https://zeenews.india.com/malayalam/mobileapi/search.php?searchstring=",
+"privacyPolicyUrl": "http://st3.zeenews.india.com/liveapi/english/privacy.json",
+"contactUsUrl": "http://st3.zeenews.india.com/liveapi/english/contact.json",
+"disclaimerUrl": "http://st3.zeenews.india.com/liveapi/english/disclaimer.json",
+"campaignUrl": "http://st3.zeenews.india.com/liveapi/english/campaign.json",
+"topic_post_url": "http://st3.zeenews.india.com/liveapi/malayalam/posts/news_id/index.json",
+"topic_section_url": "http://st3.zeenews.india.com/liveapi/malayalam/section_id/index.json",
+"homePageNativeVideo": "/11440465/Zeenews_Hindi_App_Homepage_NativeVideo",
+"homePageNativeStandard": "/11440465/Zeenews_Hindi_App_Homepage_NativeStandard",
+"rosNativeVideo": "/11440465/Zeenews_Hindi_App_ROS_NativeVideo",
+"rosNativeStandard": "/11440465/Zeenews_Hindi_App_ROS_NativeStandard",
+"articleMiddle300x250": "/11440465/Zeenews_Hindi_App_ArticleMiddle_300x250",
+"articleAfterStory300x250": "/11440465/Zeenews_Hindi_App_Article_300x250_ATF",
+"articleNativeVideo": "/11440465/Zeenews_Hindi_App_Article_NativeVideo",
+"photoListing300x250": "/11440465/Zeenews_Hindi_App_PhotoListing_300x250",
+"photoDetail300x250": "/11440465/Zeenews_Hindi_App_PhotoDetail_300x250",
+"splashNativeAdd": "/11440465/Zeenews_Hindi_App_SplashScreen",
+"termsOfUseUrl": "",
+"interstitialAd": "",
+"fullPostsUrl": "",
+"websiteUrl": "",
+"siteId": "",
+"trendingNewsUrl": "http://st3.zeenews.india.com/liveapi/malayalam/trending/index.json",
+"livetv_token_url": "",
+"livetv_streaming_url": "",
+"homeNewsIndexing": [
+"electionCard",
+"breakingNews",
+"featuredNews",
+"cricketCard",
+"section1",
+"section2",
+"section3",
+"section4",
+"section5",
+"section6",
+"section7",
+"section8",
+"section9",
+"section10",
+"section11",
+"section12",
+"section13",
+"section14",
+"section15",
+"section16",
+"section17",
+"section18",
+"section19",
+"section20",
+"section21",
+"section22",
+"section23",
+"section24",
+"section25",
+"section26",
+"section27",
+"section28",
+"section29",
+"section30"
+],
+"vast": {
+"android": {
+"preroll": "",
+"midroll": "",
+"preroll_videos_url": "",
+"midroll_videos_url": "",
+"preroll_livetv_url": "",
+"midroll_livetv_url": "",
+"midroll_time_min": 10
+},
+"ios": {
+"preroll": "",
+"midroll": "",
+"preroll_videos_url": "",
+"midroll_videos_url": "",
+"preroll_livetv_url": "",
+"midroll_livetv_url": "",
+"midroll_time_min": 5
+}
+},
+"homeHeaderTag": [
+{
+"name": "Home",
+"viewType": "HOME",
+"sequence": 1,
+"url": "http://st3.zeenews.india.com/liveapi/malayalam/index.json",
+"tagId": 0
+},
+{
+"name": "Brief",
+"viewType": "BRIEF",
+"sequence": 2,
+"url": "http://st3.zeenews.india.com/liveapi/malayalam/briefnews/index.json",
+"tagId": 0
+},
+{
+"name": "Latest",
+"viewType": "LATEST",
+"sequence": 3,
+"url": "http://st3.zeenews.india.com/liveapi/malayalam/latestnews/index.json",
+"zeeUrl": "https://zeenews.india.com/malayalam/mobileapi/latestnews.php",
+"tagId": 0
+}
+],
+"forceUpdateMessage": "This app is expired and cannot be used. Get the Latest version!",
+"optionalUpdateMessage": "A new version of Zee News is available for installation.Get the latest version TODAY!",
+"homeAllAdsIOS": [
+{
+"adsid": "/11440465/Zeenews_Malayalam_iOS/Zeenews_Malayalam_iOS_HP_Native_India_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 848786,
+"sectionName": "India",
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_Malayalam_iOS/Zeenews_Malayalam_iOS_HP_Native_World_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 120186,
+"sectionName": "World",
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_Malayalam_iOS/Zeenews_Malayalam_iOS_HP_Native_States_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 120310,
+"sectionName": "Kerala",
+"adsPosition": 2,
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_Malayalam_iOS/Zeenews_Malayalam_iOS_HP_Native_Entertainment_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 120082,
+"sectionName": "Entertainment",
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_Malayalam_iOS/Zeenews_Malayalam_iOS_HP_Native_Sport_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 120890,
+"sectionName": "sports",
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_Malayalam_iOS/Zeenews_Malayalam_iOS_HP_Native_Business_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 657581,
+"sectionName": "business",
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_Malayalam_iOS/Zeenews_Malayalam_iOS_HP_Native_Health_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 120352,
+"sectionName": "health",
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_Malayalam_iOS/Zeenews_Malayalam_iOS_HP_Native_Technology_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 120563,
+"sectionName": "Technology",
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_Malayalam_iOS/Zeenews_Malayalam_iOS_HP_Native_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 0,
+"sectionName": "featuredNews",
+"adsType": "native"
+},
+{
+"adsid": "/11440465/Zeenews_Malayalam_iOS/Zeenews_Malayalam_iOS_HP_ATF_320x50",
+"adsWidth": 320,
+"adsHeight": 50,
+"showAds": true,
+"Fulid": false,
+"sectionId": 0,
+"sectionName": null,
+"adsType": "ATF_50"
+},
+{
+"adsid": "/11440465/Zeenews_Malayalam_iOS/Zeenews_Malayalam_iOS_HP_ATF_300x250",
+"adsWidth": 300,
+"adsHeight": 250,
+"showAds": true,
+"Fulid": false,
+"sectionId": 0,
+"sectionName": null,
+"adsType": "ATF_250"
+},
+{
+"adsid": "/11440465/Zeenews_Malayalam_iOS/Zeenews_Malayalam_iOS_HP_BTF1_300x250",
+"adsWidth": 300,
+"adsHeight": 250,
+"showAds": true,
+"Fulid": false,
+"sectionId": 0,
+"sectionName": null,
+"adsType": "BTF_1_250"
+},
+{
+"adsid": "/11440465/Zeenews_Malayalam_iOS/Zeenews_Malayalam_iOS_HP_BTF2_300x250",
+"adsWidth": 300,
+"adsHeight": 250,
+"showAds": true,
+"Fulid": false,
+"sectionId": 0,
+"sectionName": null,
+"adsType": "BTF_2_250"
+},
+{
+"adsid": "/11440465/Zeenews_Malayalam_iOS/Zeenews_Malayalam_iOS_HP_Sticky_320x50",
+"adsWidth": 320,
+"adsHeight": 50,
+"showAds": true,
+"Fulid": false,
+"sectionId": 0,
+"sectionName": null,
+"adsType": "Sticky_50"
+}
+],
+"storyPageAdsIOS": [
+{
+"adsid": "/11440465/Zeenews_Malayalam_iOS/Zeenews_Malayalam_iOS_AS_ATF_320x50",
+"adsWidth": 320,
+"adsHeight": 50,
+"showAds": true,
+"Fulid": false,
+"adsType": "ATF_50"
+},
+{
+"adsid": "/11440465/Zeenews_Malayalam_iOS/Zeenews_Malayalam_iOS_AS_ATF_300x250",
+"adsWidth": 300,
+"adsHeight": 250,
+"showAds": true,
+"Fulid": false,
+"adsType": "ATF_250"
+},
+{
+"adsid": "/11440465/Zeenews_Malayalam_iOS/Zeenews_Malayalam_iOS_AS_BTF1_300x250",
+"adsWidth": 300,
+"adsHeight": 250,
+"showAds": true,
+"Fulid": false,
+"adsType": "BTF_1_250"
+},
+{
+"adsid": "/11440465/Zeenews_Malayalam_iOS/Zeenews_Malayalam_iOS_AS_BTF2_300x250",
+"adsWidth": 300,
+"adsHeight": 250,
+"showAds": true,
+"Fulid": false,
+"adsType": "BTF_2_250"
+},
+{
+"adsid": "/11440465/Zeenews_Malayalam_iOS/Zeenews_Malayalam_iOS_AS_Sticky_320x50",
+"adsWidth": 320,
+"adsHeight": 50,
+"showAds": true,
+"Fulid": false,
+"adsType": "Sticky_50"
+},
+{
+"adsid": "/11440465/Zeenews_Malayalam_iOS/Zeenews_Malayalam_iOS_AS_Native_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"adsType": "Native"
+}
+],
+"sectionPageAds": [
+{
+"adsid": "/11440465/Zeenews_Malayalam_AOS/Zeenews_Malayalam_AOS_AL_ATF_320x50",
+"adsWidth": 320,
+"adsHeight": 50,
+"showAds": true,
+"Fulid": false,
+"adsType": "ATF_50"
+},
+{
+"adsid": "/11440465/Zeenews_Malayalam_AOS/Zeenews_Malayalam_AOS_AL_ATF_300x250",
+"adsWidth": 300,
+"adsHeight": 250,
+"showAds": true,
+"Fulid": false,
+"adsType": "ATF_250"
+},
+{
+"adsid": "/11440465/Zeenews_Malayalam_AOS/Zeenews_Malayalam_AOS_AL_BTF_1_300x250",
+"adsWidth": 300,
+"adsHeight": 250,
+"showAds": true,
+"Fulid": false,
+"adsType": "BTF_1_250"
+},
+{
+"adsid": "/11440465/Zeenews_Malayalam_AOS/Zeenews_Malayalam_AOS_AL_BTF_2_300x250",
+"adsWidth": 300,
+"adsHeight": 250,
+"showAds": true,
+"Fulid": false,
+"adsType": "BTF_2_250"
+},
+{
+"adsid": "/11440465/Zeenews_Malayalam_AOS/Zeenews_Malayalam_AOS_AL_Sticky_320x50",
+"adsWidth": 320,
+"adsHeight": 50,
+"showAds": true,
+"Fulid": false,
+"adsType": "STICKY_50"
+},
+{
+"adsid": "/11440465/Zeenews_Malayalam_AOS/Zeenews_Malayalam_AOS_AL_Native_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": false,
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_Malayalam_AOS/Zeenews_Malayalam_AOS_AL_Native2_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"adsType": "Native2"
+},
+{
+"adsid": "/11440465/Zeenews_Malayalam_AOS/Zeenews_Malayalam_AOS_AL_Native3_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"adsType": "Native3"
+},
+{
+"adsid": "/11440465/Zeenews_Malayalam_AOS/Zeenews_Malayalam_AOS_AL_Native4_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"adsType": "Native4"
+},
+{
+"adsid": "/11440465/Zeenews_Malayalam_AOS/Zeenews_Malayalam_AOS_AL_Native5_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"adsType": "Native5"
+}
+],
+"homeAllAds": [
+{
+"adsid": "/11440465/Zeenews_Malayalam_AOS/Zeenews_Malayalam_AOS_HP_Native_India_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 848786,
+"sectionName": "India",
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_Malayalam_AOS/Zeenews_Malayalam_AOS_HP_Native_World_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 120186,
+"sectionName": "World",
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_Malayalam_AOS/Zeenews_Malayalam_AOS_HP_Native_States_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 120310,
+"sectionName": "Kerala",
+"adsPosition": 2,
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_Malayalam_AOS/Zeenews_Malayalam_AOS_HP_Native_Entertainment_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 120082,
+"sectionName": "Entertainment",
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_Malayalam_AOS/Zeenews_Malayalam_AOS_HP_Native_Sport_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 120890,
+"sectionName": "sports",
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_Malayalam_AOS/Zeenews_Malayalam_AOS_HP_Native_Business_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 657581,
+"sectionName": "business",
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_Malayalam_AOS/Zeenews_Malayalam_AOS_HP_Native_Health_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 120352,
+"sectionName": "health",
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_Malayalam_AOS/Zeenews_Malayalam_AOS_HP_Native_Technology_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 120563,
+"sectionName": "Technology",
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_Malayalam_AOS/Zeenews_Malayalam_AOS_HP_Native_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 0,
+"sectionName": "featuredNews",
+"adsType": "native"
+},
+{
+"adsid": "/11440465/Zeenews_Malayalam_AOS/Zeenews_Malayalam_AOS_HP_ATF_320x50",
+"adsWidth": 320,
+"adsHeight": 50,
+"showAds": true,
+"Fulid": false,
+"sectionId": 0,
+"sectionName": null,
+"adsType": "ATF_50"
+},
+{
+"adsid": "/11440465/Zeenews_Malayalam_AOS/Zeenews_Malayalam_AOS_HP_ATF_300x250",
+"adsWidth": 300,
+"adsHeight": 250,
+"showAds": true,
+"Fulid": false,
+"sectionId": 0,
+"sectionName": "Photos",
+"adsType": "ATF_250"
+},
+{
+"adsid": "/11440465/Zeenews_Malayalam_AOS/Zeenews_Malayalam_AOS_HP_BTF1_300x250",
+"adsWidth": 300,
+"adsHeight": 250,
+"showAds": true,
+"Fulid": false,
+"sectionId": 0,
+"sectionName": "Entertainment",
+"adsType": "BTF_1_250"
+},
+{
+"adsid": "/11440465/Zeenews_Malayalam_AOS/Zeenews_Malayalam_AOS_HP_BTF2_300x250",
+"adsWidth": 300,
+"adsHeight": 250,
+"showAds": true,
+"Fulid": false,
+"sectionId": 0,
+"sectionName": null,
+"adsType": "BTF_2_250"
+},
+{
+"adsid": "/11440465/Zeenews_Malayalam_AOS/Zeenews_Malayalam_AOS_HP_Sticky_320x50",
+"adsWidth": 320,
+"adsHeight": 50,
+"showAds": true,
+"Fulid": false,
+"sectionId": 0,
+"sectionName": null,
+"adsType": "Sticky_50"
+}
+],
+"storyPageAds": [
+{
+"adsid": "/11440465/Zeenews_Malayalam_AOS/Zeenews_Malayalam_AOS_AS_ATF_320x50",
+"adsWidth": 320,
+"adsHeight": 50,
+"showAds": true,
+"Fulid": false,
+"adsType": "ATF_50"
+},
+{
+"adsid": "/11440465/Zeenews_Malayalam_AOS/Zeenews_Malayalam_AOS_AS_ATF_300x250",
+"adsWidth": 300,
+"adsHeight": 250,
+"showAds": true,
+"Fulid": false,
+"adsType": "ATF_250"
+},
+{
+"adsid": "/11440465/Zeenews_Malayalam_AOS/Zeenews_Malayalam_AOS_AS_BTF1_300x250",
+"adsWidth": 300,
+"adsHeight": 250,
+"showAds": true,
+"Fulid": false,
+"adsType": "BTF_1_250"
+},
+{
+"adsid": "/11440465/Zeenews_Malayalam_AOS/Zeenews_Malayalam_AOS_AS_BTF2_300x250",
+"adsWidth": 300,
+"adsHeight": 250,
+"showAds": true,
+"Fulid": false,
+"adsType": "BTF_2_250"
+},
+{
+"adsid": "/11440465/Zeenews_Malayalam_AOS/Zeenews_Malayalam_AOS_AS_Sticky_320x50",
+"adsWidth": 320,
+"adsHeight": 50,
+"showAds": true,
+"Fulid": false,
+"adsType": "Sticky_50"
+},
+{
+"adsid": "/11440465/Zeenews_Malayalam_AOS/Zeenews_Malayalam_AOS_AS_Native_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"adsType": "Native"
+}
+],
+"spAdsScriptATF": "<html><head><script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script><script>var googletag=googletag ||{}; googletag.cmd=googletag.cmd || [];</script><script>googletag.cmd.push(function(){googletag.defineSlot('/11440465/Zeenews_Malayalam_AOS/Zeenews_Malayalam_AOS_AS_ATF_300x250', [300, 250], 'div-gpt-ad-1551856938387-0').addService(googletag.pubads()); googletag.pubads().enableSingleRequest(); googletag.pubads().collapseEmptyDivs(); googletag.enableServices();});</script></head><body><div id='div-gpt-ad-1551856938387-0' style='height:250px; width:300px; margin: 0 auto;'><script>googletag.cmd.push(function(){googletag.display('div-gpt-ad-1551856938387-0');});</script></div></body></html>",
+"spAdsScriptBTF1": "<html><head><script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script><script>var googletag=googletag ||{}; googletag.cmd=googletag.cmd || [];</script><script>googletag.cmd.push(function(){googletag.defineSlot('/11440465/Zeenews_Malayalam_AOS/Zeenews_Malayalam_AOS_AS_BTF1_300x250', [300, 250], 'div-gpt-ad-1551856962472-0').addService(googletag.pubads()); googletag.pubads().enableSingleRequest(); googletag.pubads().collapseEmptyDivs(); googletag.enableServices();});</script></head><body><div id='div-gpt-ad-1551856962472-0' style='height:250px; width:300px; margin: 0 auto;'><script>googletag.cmd.push(function(){googletag.display('div-gpt-ad-1551856962472-0');});</script></div></body></html>",
+"spAdsScriptBTF2": "",
+"zeeTaboolaAds": {
+"publiserId": "zeemedia-zeenewsmalayalamandroid",
+"mode": "thumbs-feed-01",
+"placement": "Below Article Thumbnails",
+"pageUrl": "public-web-url-which-reflects-the-current-content",
+"pageType": "article",
+"targetType": "mix"
+}
+},
+{
+"name": "ZeeNews Gujarati",
+"languageName": "Gujarati",
+"sectionUrl": "http://st3.zeenews.india.com/liveapi/gujarati/section.json",
+"sectionNewUrl": "http://st3.zeenews.india.com/liveapi/gujarati/section_new.json",
+"homeUrl": "http://st3.zeenews.india.com/liveapi/gujarati/index.json",
+"liveTVUrl": "http://st3.zeenews.india.com/liveapi/gujarati/livetv.json",
+"briefNewsUrl": "http://st3.zeenews.india.com/liveapi/gujarati/briefnews/index.json",
+"latestNewsUrl": "http://st3.zeenews.india.com/liveapi/gujarati/latestnews/index.json",
+"photoSectionUrl": "http://st3.zeenews.india.com/liveapi/gujarati/photos/index.json",
+"videoSectionUrl": "http://st3.zeenews.india.com/liveapi/gujarati/videos/index.json",
+"aboutusUrl": "",
+"is_livetv": true,
+"searchUrl": "https://zeenews.india.com/gujarati/mobileapi/search.php?searchstring=",
+"privacyPolicyUrl": "http://st3.zeenews.india.com/liveapi/english/privacy.json",
+"contactUsUrl": "http://st3.zeenews.india.com/liveapi/english/contact.json",
+"disclaimerUrl": "http://st3.zeenews.india.com/liveapi/english/disclaimer.json",
+"campaignUrl": "http://st3.zeenews.india.com/liveapi/english/campaign.json",
+"topic_post_url": "http://st3.zeenews.india.com/liveapi/gujarati/posts/news_id/index.json",
+"topic_section_url": "http://st3.zeenews.india.com/liveapi/gujarati/section_id/index.json",
+"homePageNativeVideo": "/11440465/Zeenews_Hindi_App_Homepage_NativeVideo",
+"homePageNativeStandard": "/11440465/Zeenews_Hindi_App_Homepage_NativeStandard",
+"rosNativeVideo": "/11440465/Zeenews_Hindi_App_ROS_NativeVideo",
+"rosNativeStandard": "/11440465/Zeenews_Hindi_App_ROS_NativeStandard",
+"articleMiddle300x250": "/11440465/Zeenews_Hindi_App_ArticleMiddle_300x250",
+"articleAfterStory300x250": "/11440465/Zeenews_Hindi_App_Article_300x250_ATF",
+"articleNativeVideo": "/11440465/Zeenews_Hindi_App_Article_NativeVideo",
+"photoListing300x250": "/11440465/Zeenews_Hindi_App_PhotoListing_300x250",
+"photoDetail300x250": "/11440465/Zeenews_Hindi_App_PhotoDetail_300x250",
+"splashNativeAdd": "/11440465/Zeenews_Hindi_App_SplashScreen",
+"termsOfUseUrl": "",
+"interstitialAd": "",
+"fullPostsUrl": "",
+"websiteUrl": "",
+"siteId": "",
+"trendingNewsUrl": "http://st3.zeenews.india.com/liveapi/gujarati/trending/index.json",
+"livetv_token_url": "https://useraction.zee5.com/token/live.php",
+"livetv_streaming_url": "https://z5ams.akamaized.net/kalak/index.m3u8",
+"homeNewsIndexing": [
+"electionCard",
+"breakingNews",
+"featuredNews",
+"cricketCard",
+"section1",
+"section2",
+"section3",
+"section4",
+"section5",
+"section6",
+"section7",
+"section8",
+"section9",
+"section10",
+"section11",
+"section12",
+"section13",
+"section14",
+"section15",
+"section16",
+"section17",
+"section18",
+"section19",
+"section20",
+"section21",
+"section22",
+"section23",
+"section24",
+"section25",
+"section26",
+"section27",
+"section28",
+"section29",
+"section30"
+],
+"vast": {
+"android": {
+"preroll": "",
+"midroll": "",
+"preroll_videos_url": "",
+"midroll_videos_url": "",
+"preroll_livetv_url": "",
+"midroll_livetv_url": "",
+"midroll_time_min": 10
+},
+"ios": {
+"preroll": "",
+"midroll": "",
+"preroll_videos_url": "",
+"midroll_videos_url": "",
+"preroll_livetv_url": "",
+"midroll_livetv_url": "",
+"midroll_time_min": 5
+}
+},
+"homeHeaderTag": [
+{
+"name": "Home",
+"viewType": "HOME",
+"sequence": 1,
+"url": "http://st3.zeenews.india.com/liveapi/gujarati/index.json",
+"tagId": 0
+},
+{
+"name": "Brief",
+"viewType": "BRIEF",
+"sequence": 2,
+"url": "http://st3.zeenews.india.com/liveapi/gujarati/briefnews/index.json",
+"tagId": 0
+},
+{
+"name": "Latest",
+"viewType": "LATEST",
+"sequence": 3,
+"url": "http://st3.zeenews.india.com/liveapi/gujarati/latestnews/index.json",
+"zeeUrl": "https://zeenews.india.com/gujarati/mobileapi/latestnews.php",
+"tagId": 0
+}
+],
+"forceUpdateMessage": "This app is expired and cannot be used. Get the Latest version!",
+"optionalUpdateMessage": "A new version of Zee News is available for installation.Get the latest version TODAY!",
+"homeAllAdsIOS": [
+{
+"adsid": "/11440465/Zeenews_Gujarat_iOS/Zeenews_Gujarat_iOS_HP_Native_India_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 848786,
+"sectionName": "india",
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_Gujarat_iOS/Zeenews_Gujarat_iOS_HP_Native_World_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 120186,
+"sectionName": "world",
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_Gujarat_iOS/Zeenews_Gujarat_iOS_HP_Native_States_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 120310,
+"sectionName": "Gujarat",
+"adsPosition": 2,
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_Gujarat_iOS/Zeenews_Gujarat_iOS_HP_Native_Entertainment_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 120082,
+"sectionName": "entertainment",
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_Gujarat_iOS/Zeenews_Gujarat_iOS_HP_Native_Sport_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 120890,
+"sectionName": "sports",
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_Gujarat_iOS/Zeenews_Gujarat_iOS_HP_Native_Business_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 657581,
+"sectionName": "business",
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_Gujarat_iOS/Zeenews_Gujarat_iOS_HP_Native_Health_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 120352,
+"sectionName": "health",
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_Gujarat_iOS/Zeenews_Gujarat_iOS_HP_Native_Technology_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 120563,
+"sectionName": "technology",
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_Gujarat_iOS/Zeenews_Gujarat_iOS_HP_Native_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 0,
+"sectionName": "featuredNews",
+"adsType": "native"
+},
+{
+"adsid": "/11440465/Zeenews_Gujarat_iOS/Zeenews_Gujarat_iOS_HP_ATF_320x50",
+"adsWidth": 320,
+"adsHeight": 50,
+"showAds": true,
+"Fulid": false,
+"sectionId": 0,
+"sectionName": null,
+"adsType": "ATF_50"
+},
+{
+"adsid": "/11440465/Zeenews_Gujarat_iOS/Zeenews_Gujarat_iOS_HP_ATF_300x250",
+"adsWidth": 300,
+"adsHeight": 250,
+"showAds": true,
+"Fulid": false,
+"sectionId": 0,
+"sectionName": null,
+"adsType": "ATF_250"
+},
+{
+"adsid": "/11440465/Zeenews_Gujarat_iOS/Zeenews_Gujarat_iOS_HP_BTF1_300x250",
+"adsWidth": 300,
+"adsHeight": 250,
+"showAds": true,
+"Fulid": false,
+"sectionId": 0,
+"sectionName": null,
+"adsType": "BTF_1_250"
+},
+{
+"adsid": "/11440465/Zeenews_Gujarat_iOS/Zeenews_Gujarat_iOS_HP_BTF2_300x250",
+"adsWidth": 300,
+"adsHeight": 250,
+"showAds": true,
+"Fulid": false,
+"sectionId": 0,
+"sectionName": null,
+"adsType": "BTF_2_250"
+},
+{
+"adsid": "/11440465/Zeenews_Gujarat_iOS/Zeenews_Gujarat_iOS_HP_Sticky_320x50",
+"adsWidth": 320,
+"adsHeight": 50,
+"showAds": true,
+"Fulid": false,
+"sectionId": 0,
+"sectionName": null,
+"adsType": "Sticky_50"
+}
+],
+"storyPageAdsIOS": [
+{
+"adsid": "/11440465/Zeenews_Gujarat_iOS/Zeenews_Gujarat_iOS_AS_ATF_320x50",
+"adsWidth": 320,
+"adsHeight": 50,
+"showAds": true,
+"Fulid": false,
+"adsType": "ATF_50"
+},
+{
+"adsid": "/11440465/Zeenews_Gujarat_iOS/Zeenews_Gujarat_iOS_AS_ATF_300x250",
+"adsWidth": 300,
+"adsHeight": 250,
+"showAds": true,
+"Fulid": false,
+"adsType": "ATF_250"
+},
+{
+"adsid": "/11440465/Zeenews_Gujarat_iOS/Zeenews_Gujarat_iOS_AS_BTF1_300x250",
+"adsWidth": 300,
+"adsHeight": 250,
+"showAds": true,
+"Fulid": false,
+"adsType": "BTF_1_250"
+},
+{
+"adsid": "/11440465/Zeenews_Gujarat_iOS/Zeenews_Gujarat_iOS_AS_BTF2_300x250",
+"adsWidth": 300,
+"adsHeight": 250,
+"showAds": true,
+"Fulid": false,
+"adsType": "BTF_2_250"
+},
+{
+"adsid": "/11440465/Zeenews_Gujarat_iOS/Zeenews_Gujarat_iOS_AS_Sticky_320x50",
+"adsWidth": 320,
+"adsHeight": 50,
+"showAds": true,
+"Fulid": false,
+"adsType": "Sticky_50"
+},
+{
+"adsid": "/11440465/Zeenews_Gujarat_iOS/Zeenews_Gujarat_iOS_AS_Native_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"adsType": "Native"
+}
+],
+"sectionPageAdsIOS": [
+{
+"adsid": "/11440465/Zeenews_Gujarat_iOS/Zeenews_Gujarat_iOS_AL_ATF_320x50",
+"adsWidth": 320,
+"adsHeight": 50,
+"showAds": true,
+"Fulid": false,
+"adsType": "ATF_50"
+},
+{
+"adsid": "/11440465/Zeenews_Gujarat_iOS/Zeenews_Gujarat_iOS_AL_ATF_300x250",
+"adsWidth": 300,
+"adsHeight": 250,
+"showAds": true,
+"Fulid": false,
+"adsType": "ATF_250"
+},
+{
+"adsid": "/11440465/Zeenews_Gujarat_iOS/Zeenews_Gujarat_iOS_AL_Sticky_320x50",
+"adsWidth": 320,
+"adsHeight": 50,
+"showAds": true,
+"Fulid": false,
+"adsType": "STICKY_50"
+},
+{
+"adsid": "/11440465/Zeenews_Gujarat_iOS/Zeenews_Gujarat_iOS_AL_Native_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": false,
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_Gujarat_iOS/Zeenews_Gujarat_iOS_AL_Native2_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"adsType": "Native2"
+},
+{
+"adsid": "/11440465/Zeenews_Gujarat_iOS/Zeenews_Gujarat_iOS_AL_Native3_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"adsType": "Native3"
+},
+{
+"adsid": "/11440465/Zeenews_Gujarat_iOS/Zeenews_Gujarat_iOS_AL_Native4_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"adsType": "Native4"
+},
+{
+"adsid": "/11440465/Zeenews_Gujarat_iOS/Zeenews_Gujarat_iOS_AL_Native5_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"adsType": "Native5"
+}
+],
+"homeAllAds": [
+{
+"adsid": "/11440465/Zeenews_Gujarat_AOS/Zeenews_Gujarat_AOS_HP_Native_India_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 848786,
+"sectionName": "india",
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_Gujarat_AOS/Zeenews_Gujarat_AOS_HP_Native_World_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 120186,
+"sectionName": "world",
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_Gujarat_AOS/Zeenews_Gujarat_AOS_HP_Native_States_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 120310,
+"sectionName": "Gujarat",
+"adsPosition": 2,
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_Gujarat_AOS/Zeenews_Gujarat_AOS_HP_Native_Entertainment_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 120082,
+"sectionName": "entertainment",
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_Gujarat_AOS/Zeenews_Gujarat_AOS_HP_Native_Sport_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 120890,
+"sectionName": "sports",
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_Gujarat_AOS/Zeenews_Gujarat_AOS_HP_Native_Business_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 657581,
+"sectionName": "business",
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_Gujarat_AOS/Zeenews_Gujarat_AOS_HP_Native_Health_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 120352,
+"sectionName": "health",
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_Gujarat_AOS/Zeenews_Gujarat_AOS_HP_Native_Technology_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 120563,
+"sectionName": "technology",
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_Gujarat_AOS/Zeenews_Gujarat_AOS_HP_Native_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 0,
+"sectionName": "featuredNews",
+"adsType": "native"
+},
+{
+"adsid": "/11440465/Zeenews_Gujarat_AOS/Zeenews_Gujarat_AOS_HP_ATF_320x50",
+"adsWidth": 320,
+"adsHeight": 50,
+"showAds": true,
+"Fulid": false,
+"sectionId": 0,
+"sectionName": null,
+"adsType": "ATF_50"
+},
+{
+"adsid": "/11440465/Zeenews_Gujarat_AOS/Zeenews_Gujarat_AOS_HP_ATF_300x250",
+"adsWidth": 300,
+"adsHeight": 250,
+"showAds": true,
+"Fulid": false,
+"sectionId": 0,
+"sectionName": "Photos",
+"adsType": "ATF_250"
+},
+{
+"adsid": "/11440465/Zeenews_Gujarat_AOS/Zeenews_Gujarat_AOS_HP_BTF1_300x250",
+"adsWidth": 300,
+"adsHeight": 250,
+"showAds": true,
+"Fulid": false,
+"sectionId": 0,
+"sectionName": "Entertainment",
+"adsType": "BTF_1_250"
+},
+{
+"adsid": "/11440465/Zeenews_Gujarat_AOS/Zeenews_Gujarat_AOS_HP_BTF2_300x250",
+"adsWidth": 300,
+"adsHeight": 250,
+"showAds": true,
+"Fulid": false,
+"sectionId": 0,
+"sectionName": "Health",
+"adsType": "BTF_2_250"
+},
+{
+"adsid": "/11440465/Zeenews_Gujarat_AOS/Zeenews_Gujarat_AOS_HP_Sticky_320x50",
+"adsWidth": 320,
+"adsHeight": 50,
+"showAds": true,
+"Fulid": false,
+"sectionId": 0,
+"sectionName": null,
+"adsType": "Sticky_50"
+}
+],
+"storyPageAds": [
+{
+"adsid": "/11440465/Zeenews_Gujarat_AOS/Zeenews_Gujarat_AOS_AS_ATF_320x50",
+"adsWidth": 320,
+"adsHeight": 50,
+"showAds": true,
+"Fulid": false,
+"adsType": "ATF_50"
+},
+{
+"adsid": "/11440465/Zeenews_Gujarat_AOS/Zeenews_Gujarat_AOS_AS_ATF_300x250",
+"adsWidth": 300,
+"adsHeight": 250,
+"showAds": true,
+"Fulid": false,
+"adsType": "ATF_250"
+},
+{
+"adsid": "/11440465/Zeenews_Gujarat_AOS/Zeenews_Gujarat_AOS_AS_BTF1_300x250",
+"adsWidth": 300,
+"adsHeight": 250,
+"showAds": true,
+"Fulid": false,
+"adsType": "BTF_1_250"
+},
+{
+"adsid": "/11440465/Zeenews_Gujarat_AOS/Zeenews_Gujarat_AOS_AS_BTF2_300x250",
+"adsWidth": 300,
+"adsHeight": 250,
+"showAds": true,
+"Fulid": false,
+"adsType": "BTF_2_250"
+},
+{
+"adsid": "/11440465/Zeenews_Gujarat_AOS/Zeenews_Gujarat_AOS_AS_Sticky_320x50",
+"adsWidth": 320,
+"adsHeight": 50,
+"showAds": true,
+"Fulid": false,
+"adsType": "Sticky_50"
+},
+{
+"adsid": "/11440465/Zeenews_Gujarat_AOS/Zeenews_Gujarat_AOS_AS_Native_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"adsType": "Native"
+}
+],
+"sectionPageAds": [
+{
+"adsid": "/11440465/Zeenews_Gujarat_AOS/Zeenews_Gujarat_AOS_AL_ATF_320x50",
+"adsWidth": 320,
+"adsHeight": 50,
+"showAds": true,
+"Fulid": false,
+"adsType": "ATF_50"
+},
+{
+"adsid": "/11440465/Zeenews_Gujarat_AOS/Zeenews_Gujarat_AOS_AL_ATF_300x250",
+"adsWidth": 300,
+"adsHeight": 250,
+"showAds": true,
+"Fulid": false,
+"adsType": "ATF_250"
+},
+{
+"adsid": "/11440465/Zeenews_Gujarat_AOS/Zeenews_Gujarat_AOS_AL_BTF_1_300x250",
+"adsWidth": 300,
+"adsHeight": 250,
+"showAds": true,
+"Fulid": false,
+"adsType": "BTF_1_250"
+},
+{
+"adsid": "/11440465/Zeenews_Gujarat_AOS/Zeenews_Gujarat_AOS_AL_BTF_2_300x250",
+"adsWidth": 300,
+"adsHeight": 250,
+"showAds": true,
+"Fulid": false,
+"adsType": "BTF_2_250"
+},
+{
+"adsid": "/11440465/Zeenews_Gujarat_AOS/Zeenews_Gujarat_AOS_AL_Sticky_320x50",
+"adsWidth": 320,
+"adsHeight": 50,
+"showAds": true,
+"Fulid": false,
+"adsType": "STICKY_50"
+},
+{
+"adsid": "/11440465/Zeenews_Gujarat_AOS/Zeenews_Gujarat_AOS_AL_Native_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": false,
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_Gujarat_AOS/Zeenews_Gujarat_AOS_AL_Native2_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"adsType": "Native2"
+},
+{
+"adsid": "/11440465/Zeenews_Gujarat_AOS/Zeenews_Gujarat_AOS_AL_Native3_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"adsType": "Native3"
+},
+{
+"adsid": "/11440465/Zeenews_Gujarat_AOS/Zeenews_Gujarat_AOS_AL_Native4_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"adsType": "Native4"
+},
+{
+"adsid": "/11440465/Zeenews_Gujarat_AOS/Zeenews_Gujarat_AOS_AL_Native5_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"adsType": "Native5"
+}
+],
+"spAdsScriptATF": "<html><head><script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script><script>var googletag=googletag ||{}; googletag.cmd=googletag.cmd || [];</script><script>googletag.cmd.push(function(){googletag.defineSlot('/11440465/Zeenews_Gujarat_AOS/Zeenews_Gujarat_AOS_AS_ATF_300x250', [300, 250], 'div-gpt-ad-1551856938387-0').addService(googletag.pubads()); googletag.pubads().enableSingleRequest(); googletag.pubads().collapseEmptyDivs(); googletag.enableServices();});</script></head><body><div id='div-gpt-ad-1551856938387-0' style='height:250px; width:300px; margin: 0 auto;'><script>googletag.cmd.push(function(){googletag.display('div-gpt-ad-1551856938387-0');});</script></div></body></html>",
+"spAdsScriptBTF1": "<html><head><script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script><script>var googletag=googletag ||{}; googletag.cmd=googletag.cmd || [];</script><script>googletag.cmd.push(function(){googletag.defineSlot('/11440465/Zeenews_Gujarat_AOS/Zeenews_Gujarat_AOS_AS_BTF1_300x250', [300, 250], 'div-gpt-ad-1551856962472-0').addService(googletag.pubads()); googletag.pubads().enableSingleRequest(); googletag.pubads().collapseEmptyDivs(); googletag.enableServices();});</script></head><body><div id='div-gpt-ad-1551856962472-0' style='height:250px; width:300px; margin: 0 auto;'><script>googletag.cmd.push(function(){googletag.display('div-gpt-ad-1551856962472-0');});</script></div></body></html>",
+"spAdsScriptBTF2": "",
+"zeeTaboolaAds": {
+"publiserId": "zeemedia-zeenewsgujaratiandroid",
+"mode": "thumbs-feed-01",
+"placement": "Below Article Thumbnails",
+"pageUrl": "public-web-url-which-reflects-the-current-content",
+"pageType": "article",
+"targetType": "mix"
+}
+},
+{
+"name": "ZeeNews Telugu",
+"languageName": "Telugu",
+"sectionUrl": "http://st3.zeenews.india.com/liveapi/telugu/section.json",
+"sectionNewUrl": "http://st3.zeenews.india.com/liveapi/telugu/section_new.json",
+"homeUrl": "http://st3.zeenews.india.com/liveapi/telugu/index.json",
+"liveTVUrl": "",
+"briefNewsUrl": "http://st3.zeenews.india.com/liveapi/telugu/briefnews/index.json",
+"latestNewsUrl": "http://st3.zeenews.india.com/liveapi/telugu/latestnews/index.json",
+"photoSectionUrl": "http://st3.zeenews.india.com/liveapi/telugu/photos/index.json",
+"videoSectionUrl": "http://st3.zeenews.india.com/liveapi/telugu/videos/index.json",
+"aboutusUrl": "",
+"is_livetv": false,
+"searchUrl": "https://zeenews.india.com/telugu/mobileapi/search.php?searchstring=",
+"privacyPolicyUrl": "http://st3.zeenews.india.com/liveapi/english/privacy.json",
+"contactUsUrl": "http://st3.zeenews.india.com/liveapi/english/contact.json",
+"disclaimerUrl": "http://st3.zeenews.india.com/liveapi/english/disclaimer.json",
+"campaignUrl": "http://st3.zeenews.india.com/liveapi/english/campaign.json",
+"topic_post_url": "http://st3.zeenews.india.com/liveapi/telugu/posts/news_id/index.json",
+"topic_section_url": "http://st3.zeenews.india.com/liveapi/telugu/section_id/index.json",
+"homePageNativeVideo": "/11440465/Zeenews_Hindi_App_Homepage_NativeVideo",
+"homePageNativeStandard": "/11440465/Zeenews_Hindi_App_Homepage_NativeStandard",
+"rosNativeVideo": "/11440465/Zeenews_Hindi_App_ROS_NativeVideo",
+"rosNativeStandard": "/11440465/Zeenews_Hindi_App_ROS_NativeStandard",
+"articleMiddle300x250": "/11440465/Zeenews_Hindi_App_ArticleMiddle_300x250",
+"articleAfterStory300x250": "/11440465/Zeenews_Hindi_App_Article_300x250_ATF",
+"articleNativeVideo": "/11440465/Zeenews_Hindi_App_Article_NativeVideo",
+"photoListing300x250": "/11440465/Zeenews_Hindi_App_PhotoListing_300x250",
+"photoDetail300x250": "/11440465/Zeenews_Hindi_App_PhotoDetail_300x250",
+"splashNativeAdd": "/11440465/Zeenews_Hindi_App_SplashScreen",
+"termsOfUseUrl": "",
+"interstitialAd": "",
+"fullPostsUrl": "",
+"websiteUrl": "",
+"siteId": "",
+"trendingNewsUrl": "http://st3.zeenews.india.com/liveapi/telugu/trending/index.json",
+"livetv_token_url": "",
+"livetv_streaming_url": "",
+"homeNewsIndexing": [
+"electionCard",
+"breakingNews",
+"featuredNews",
+"cricketCard",
+"section1",
+"section2",
+"section3",
+"section4",
+"section5",
+"section6",
+"section7",
+"section8",
+"section9",
+"section10",
+"section11",
+"section12",
+"section13",
+"section14",
+"section15",
+"section16",
+"section17",
+"section18",
+"section19",
+"section20",
+"section21",
+"section22",
+"section23",
+"section24",
+"section25",
+"section26",
+"section27",
+"section28",
+"section29",
+"section30"
+],
+"vast": {
+"android": {
+"preroll": "",
+"midroll": "",
+"preroll_videos_url": "",
+"midroll_videos_url": "",
+"preroll_livetv_url": "",
+"midroll_livetv_url": "",
+"midroll_time_min": 10
+},
+"ios": {
+"preroll": "",
+"midroll": "",
+"preroll_videos_url": "",
+"midroll_videos_url": "",
+"preroll_livetv_url": "",
+"midroll_livetv_url": "",
+"midroll_time_min": 5
+}
+},
+"homeHeaderTag": [
+{
+"name": "హోమ్",
+"viewType": "HOME",
+"sequence": 1,
+"url": "http://st3.zeenews.india.com/liveapi/telugu/index.json",
+"tagId": 0
+},
+{
+"name": "సంక్షిప్తం",
+"viewType": "BRIEF",
+"sequence": 2,
+"url": "http://st3.zeenews.india.com/liveapi/telugu/index.json",
+"tagId": 0
+},
+{
+"name": "లేటెస్ట్",
+"viewType": "LATEST",
+"sequence": 3,
+"url": "http://st3.zeenews.india.com/liveapi/telugu/index.json",
+"zeeUrl": "https://zeenews.india.com/telegu/mobileapi/latestnews.php",
+"tagId": 0
+}
+],
+"forceUpdateMessage": "This app is expired and cannot be used. Get the Latest version!",
+"optionalUpdateMessage": "A new version of Zee News is available for installation.Get the latest version TODAY!",
+"homeAllAdsIOS": [
+{
+"adsid": "/11440465/Zeenews_Telugu_iOS/Zeenews_Telugu_iOS_HP_Native_India_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 848786,
+"sectionName": "తాజా వార్తలు",
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_Telugu_iOS/Zeenews_Telugu_iOS_HP_Native_World_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 120186,
+"sectionName": "ఏపీ",
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_Telugu_iOS/Zeenews_Telugu_iOS_HP_Native_States_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 120310,
+"sectionName": "తెలంగాణ",
+"adsPosition": 2,
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_Telugu_iOS/Zeenews_Telugu_iOS_HP_Native_Entertainment_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 120082,
+"sectionName": "జాతీయం",
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_Telugu_iOS/Zeenews_Telugu_iOS_HP_Native_Sport_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 120890,
+"sectionName": "అంతర్జాతీయం",
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_Telugu_iOS/Zeenews_Telugu_iOS_HP_Native_Business_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 657581,
+"sectionName": "క్రీడలు",
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_Telugu_iOS/Zeenews_Telugu_iOS_HP_Native_Health_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 120352,
+"sectionName": "వినోదం",
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_Telugu_iOS/Zeenews_Telugu_iOS_HP_Native_Technology_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 120563,
+"sectionName": "సోషల్",
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_Telugu_iOS/Zeenews_Telugu_iOS_HP_Native_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 0,
+"sectionName": "featuredNews",
+"adsType": "native"
+},
+{
+"adsid": "/11440465/Zeenews_Telugu_iOS/Zeenews_Telugu_iOS_HP_ATF_320x50",
+"adsWidth": 320,
+"adsHeight": 50,
+"showAds": true,
+"Fulid": false,
+"sectionId": 0,
+"sectionName": null,
+"adsType": "ATF_50"
+},
+{
+"adsid": "/11440465/Zeenews_Telugu_iOS/Zeenews_Telugu_iOS_HP_ATF_300x250",
+"adsWidth": 300,
+"adsHeight": 250,
+"showAds": true,
+"Fulid": false,
+"sectionId": 0,
+"sectionName": null,
+"adsType": "ATF_250"
+},
+{
+"adsid": "/11440465/Zeenews_Telugu_iOS/Zeenews_Telugu_iOS_HP_BTF1_300x250",
+"adsWidth": 300,
+"adsHeight": 250,
+"showAds": true,
+"Fulid": false,
+"sectionId": 0,
+"sectionName": null,
+"adsType": "BTF_1_250"
+},
+{
+"adsid": "/11440465/Zeenews_Telugu_iOS/Zeenews_Telugu_iOS_HP_BTF2_300x250",
+"adsWidth": 300,
+"adsHeight": 250,
+"showAds": true,
+"Fulid": false,
+"sectionId": 0,
+"sectionName": null,
+"adsType": "BTF_2_250"
+},
+{
+"adsid": "/11440465/Zeenews_Telugu_iOS/Zeenews_Telugu_iOS_HP_Sticky_320x50",
+"adsWidth": 320,
+"adsHeight": 50,
+"showAds": true,
+"Fulid": false,
+"sectionId": 0,
+"sectionName": null,
+"adsType": "Sticky_50"
+}
+],
+"storyPageAds": [
+{
+"adsid": "/11440465/Zeenews_Telugu_AOS/Zeenews_Telugu_AOS_AS_ATF_320x50",
+"adsWidth": 320,
+"adsHeight": 50,
+"showAds": true,
+"Fulid": false,
+"adsType": "ATF_50"
+},
+{
+"adsid": "/11440465/Zeenews_Telugu_AOS/Zeenews_Telugu_AOS_AS_ATF_300x250",
+"adsWidth": 300,
+"adsHeight": 250,
+"showAds": true,
+"Fulid": false,
+"adsType": "ATF_250"
+},
+{
+"adsid": "/11440465/Zeenews_Telugu_AOS/Zeenews_Telugu_AOS_AS_BTF1_300x250",
+"adsWidth": 300,
+"adsHeight": 250,
+"showAds": true,
+"Fulid": false,
+"adsType": "BTF_1_250"
+},
+{
+"adsid": "/11440465/Zeenews_Telugu_AOS/Zeenews_Telugu_AOS_AS_BTF2_300x250",
+"adsWidth": 300,
+"adsHeight": 250,
+"showAds": true,
+"Fulid": false,
+"adsType": "BTF_2_250"
+},
+{
+"adsid": "/11440465/Zeenews_Telugu_AOS/Zeenews_Telugu_AOS_AS_Sticky_320x50",
+"adsWidth": 320,
+"adsHeight": 50,
+"showAds": true,
+"Fulid": false,
+"adsType": "Sticky_50"
+},
+{
+"adsid": "/11440465/Zeenews_Telugu_AOS/Zeenews_Telugu_AOS_AS_Native_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"adsType": "Native"
+}
+],
+"sectionPageAds": [
+{
+"adsid": "/11440465/Zeenews_Telugu_AOS/Zeenews_Telugu_AOS_AL_ATF_320x50",
+"adsWidth": 320,
+"adsHeight": 50,
+"showAds": true,
+"Fulid": false,
+"adsType": "ATF_50"
+},
+{
+"adsid": "/11440465/Zeenews_Telugu_AOS/Zeenews_Telugu_AOS_AL_ATF_300x250",
+"adsWidth": 300,
+"adsHeight": 250,
+"showAds": true,
+"Fulid": false,
+"adsType": "ATF_250"
+},
+{
+"adsid": "/11440465/Zeenews_Telugu_AOS/Zeenews_Telugu_AOS_AL_BTF_1_300x250",
+"adsWidth": 300,
+"adsHeight": 250,
+"showAds": true,
+"Fulid": false,
+"adsType": "BTF_1_250"
+},
+{
+"adsid": "/11440465/Zeenews_Telugu_AOS/Zeenews_Telugu_AOS_AL_BTF_2_300x250",
+"adsWidth": 300,
+"adsHeight": 250,
+"showAds": true,
+"Fulid": false,
+"adsType": "BTF_2_250"
+},
+{
+"adsid": "/11440465/Zeenews_Telugu_AOS/Zeenews_Telugu_AOS_AL_Sticky_320x50",
+"adsWidth": 320,
+"adsHeight": 50,
+"showAds": true,
+"Fulid": false,
+"adsType": "STICKY_50"
+},
+{
+"adsid": "/11440465/Zeenews_Telugu_AOS/Zeenews_Telugu_AOS_AL_Native_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": false,
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_Telugu_AOS/Zeenews_Telugu_AOS_AL_Native2_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"adsType": "Native2"
+},
+{
+"adsid": "/11440465/Zeenews_Telugu_AOS/Zeenews_Telugu_AOS_AL_Native3_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"adsType": "Native3"
+},
+{
+"adsid": "/11440465/Zeenews_Telugu_AOS/Zeenews_Telugu_AOS_AL_Native4_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"adsType": "Native4"
+},
+{
+"adsid": "/11440465/Zeenews_Telugu_AOS/Zeenews_Telugu_AOS_AL_Native5_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"adsType": "Native5"
+}
+],
+"homeAllAds": [
+{
+"adsid": "/11440465/Zeenews_Telugu_AOS/Zeenews_Telugu_AOS_HP_Native_India_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 848786,
+"sectionName": "తాజా వార్తలు",
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_Telugu_AOS/Zeenews_Telugu_AOS_HP_Native_World_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 120186,
+"sectionName": "ఏపీ",
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_Telugu_AOS/Zeenews_Telugu_AOS_HP_Native_States_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 120310,
+"sectionName": "తెలంగాణ",
+"adsPosition": 2,
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_Telugu_AOS/Zeenews_Telugu_AOS_HP_Native_Entertainment_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 120082,
+"sectionName": "జాతీయం",
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_Telugu_AOS/Zeenews_Telugu_AOS_HP_Native_Sport_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 120890,
+"sectionName": "అంతర్జాతీయం",
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_Telugu_AOS/Zeenews_Telugu_AOS_HP_Native_Business_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 657581,
+"sectionName": "క్రీడలు",
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_Telugu_AOS/Zeenews_Telugu_AOS_HP_Native_Health_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 120352,
+"sectionName": "వినోదం",
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_Telugu_AOS/Zeenews_Telugu_AOS_HP_Native_Technology_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 120563,
+"sectionName": "సోషల్",
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_Telugu_AOS/Zeenews_Telugu_AOS_HP_Native_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 0,
+"sectionName": "featuredNews",
+"adsType": "native"
+},
+{
+"adsid": "/11440465/Zeenews_Telugu_AOS/Zeenews_Telugu_AOS_HP_ATF_320x50",
+"adsWidth": 320,
+"adsHeight": 50,
+"showAds": true,
+"Fulid": false,
+"sectionId": 0,
+"sectionName": null,
+"adsType": "ATF_50"
+},
+{
+"adsid": "/11440465/Zeenews_Telugu_AOS/Zeenews_Telugu_AOS_HP_ATF_300x250",
+"adsWidth": 300,
+"adsHeight": 250,
+"showAds": true,
+"Fulid": false,
+"sectionId": 0,
+"sectionName": "ఫోటో గ్యాలరీ",
+"adsType": "ATF_250"
+},
+{
+"adsid": "/11440465/Zeenews_Telugu_AOS/Zeenews_Telugu_AOS_HP_BTF1_300x250",
+"adsWidth": 300,
+"adsHeight": 250,
+"showAds": true,
+"Fulid": false,
+"sectionId": 0,
+"sectionName": "వినోదం",
+"adsType": "BTF_1_250"
+},
+{
+"adsid": "/11440465/Zeenews_Telugu_AOS/Zeenews_Telugu_AOS_HP_BTF2_300x250",
+"adsWidth": 300,
+"adsHeight": 250,
+"showAds": true,
+"Fulid": false,
+"sectionId": 0,
+"sectionName": "హెల్త్",
+"adsType": "BTF_2_250"
+},
+{
+"adsid": "/11440465/Zeenews_Telugu_AOS/Zeenews_Telugu_AOS_HP_Sticky_320x50",
+"adsWidth": 320,
+"adsHeight": 50,
+"showAds": true,
+"Fulid": false,
+"sectionId": 0,
+"sectionName": null,
+"adsType": "Sticky_50"
+}
+],
+"spAdsScriptATF": "<html><head><script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script><script>var googletag=googletag ||{}; googletag.cmd=googletag.cmd || [];</script><script>googletag.cmd.push(function(){googletag.defineSlot('/11440465/Zeenews_Telugu_AOS/Zeenews_Telugu_AOS_AS_ATF_300x250', [300, 250], 'div-gpt-ad-1551856938387-0').addService(googletag.pubads()); googletag.pubads().enableSingleRequest(); googletag.pubads().collapseEmptyDivs(); googletag.enableServices();});</script></head><body><div id='div-gpt-ad-1551856938387-0' style='height:250px; width:300px; margin: 0 auto;'><script>googletag.cmd.push(function(){googletag.display('div-gpt-ad-1551856938387-0');});</script></div></body></html>",
+"spAdsScriptBTF1": "<html><head><script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script><script>var googletag=googletag ||{}; googletag.cmd=googletag.cmd || [];</script><script>googletag.cmd.push(function(){googletag.defineSlot('/11440465/Zeenews_Telugu_AOS/Zeenews_Telugu_AOS_AS_BTF1_300x250', [300, 250], 'div-gpt-ad-1551856962472-0').addService(googletag.pubads()); googletag.pubads().enableSingleRequest(); googletag.pubads().collapseEmptyDivs(); googletag.enableServices();});</script></head><body><div id='div-gpt-ad-1551856962472-0' style='height:250px; width:300px; margin: 0 auto;'><script>googletag.cmd.push(function(){googletag.display('div-gpt-ad-1551856962472-0');});</script></div></body></html>",
+"spAdsScriptBTF2": "",
+"zeeTaboolaAds": {
+"publiserId": "zeemedia-zeenewsteluguandroid",
+"mode": "thumbs-feed-01",
+"placement": "Below Article Thumbnails",
+"pageUrl": "public-web-url-which-reflects-the-current-content",
+"pageType": "article",
+"targetType": "mix"
+}
+},
+{
+"name": "ZeeNews Kannada",
+"languageName": "Kannada",
+"sectionUrl": "http://st3.zeenews.india.com/liveapi/kannada/section.json",
+"sectionNewUrl": "http://st3.zeenews.india.com/liveapi/kannada/section_new.json",
+"homeUrl": "http://st3.zeenews.india.com/liveapi/kannada/index.json",
+"liveTVUrl": "",
+"briefNewsUrl": "http://st3.zeenews.india.com/liveapi/kannada/briefnews/index.json",
+"latestNewsUrl": "http://st3.zeenews.india.com/liveapi/kannada/latestnews/index.json",
+"photoSectionUrl": "http://st3.zeenews.india.com/liveapi/kannada/photos/index.json",
+"videoSectionUrl": "http://st3.zeenews.india.com/liveapi/kannada/videos/index.json",
+"aboutusUrl": "",
+"is_livetv": false,
+"searchUrl": "https://zeenews.india.com/kannada/mobileapi/search.php?searchstring=",
+"privacyPolicyUrl": "http://st3.zeenews.india.com/liveapi/english/privacy.json",
+"contactUsUrl": "http://st3.zeenews.india.com/liveapi/english/contact.json",
+"disclaimerUrl": "http://st3.zeenews.india.com/liveapi/english/disclaimer.json",
+"campaignUrl": "http://st3.zeenews.india.com/liveapi/english/campaign.json",
+"topic_post_url": "http://st3.zeenews.india.com/liveapi/kannada/posts/news_id/index.json",
+"topic_section_url": "http://st3.zeenews.india.com/liveapi/kannada/section_id/index.json",
+"homePageNativeVideo": "/11440465/Zeenews_Hindi_App_Homepage_NativeVideo",
+"homePageNativeStandard": "/11440465/Zeenews_Hindi_App_Homepage_NativeStandard",
+"rosNativeVideo": "/11440465/Zeenews_Hindi_App_ROS_NativeVideo",
+"rosNativeStandard": "/11440465/Zeenews_Hindi_App_ROS_NativeStandard",
+"articleMiddle300x250": "/11440465/Zeenews_Hindi_App_ArticleMiddle_300x250",
+"articleAfterStory300x250": "/11440465/Zeenews_Hindi_App_Article_300x250_ATF",
+"articleNativeVideo": "/11440465/Zeenews_Hindi_App_Article_NativeVideo",
+"photoListing300x250": "/11440465/Zeenews_Hindi_App_PhotoListing_300x250",
+"photoDetail300x250": "/11440465/Zeenews_Hindi_App_PhotoDetail_300x250",
+"splashNativeAdd": "/11440465/Zeenews_Hindi_App_SplashScreen",
+"termsOfUseUrl": "",
+"interstitialAd": "",
+"fullPostsUrl": "",
+"websiteUrl": "",
+"siteId": "",
+"trendingNewsUrl": "http://st3.zeenews.india.com/liveapi/kannada/trending/index.json",
+"livetv_token_url": "",
+"livetv_streaming_url": "",
+"homeNewsIndexing": [
+"electionCard",
+"breakingNews",
+"featuredNews",
+"cricketCard",
+"section1",
+"section2",
+"section3",
+"section4",
+"section5",
+"section6",
+"section7",
+"section8",
+"section9",
+"section10",
+"section11",
+"section12",
+"section13",
+"section14",
+"section15",
+"section16",
+"section17",
+"section18",
+"section19",
+"section20",
+"section21",
+"section22",
+"section23",
+"section24",
+"section25",
+"section26",
+"section27",
+"section28",
+"section29",
+"section30"
+],
+"vast": {
+"android": {
+"preroll": "",
+"midroll": "",
+"preroll_videos_url": "",
+"midroll_videos_url": "",
+"preroll_livetv_url": "",
+"midroll_livetv_url": "",
+"midroll_time_min": 10
+},
+"ios": {
+"preroll": "",
+"midroll": "",
+"preroll_videos_url": "",
+"midroll_videos_url": "",
+"preroll_livetv_url": "",
+"midroll_livetv_url": "",
+"midroll_time_min": 5
+}
+},
+"homeHeaderTag": [
+{
+"name": "ಮುಖಪುಟ",
+"viewType": "HOME",
+"sequence": 1,
+"url": "http://st3.zeenews.india.com/liveapi/kannada/index.json",
+"tagId": 0
+},
+{
+"name": "ಸಂಕ್ಷಿಪ್ತ",
+"viewType": "BRIEF",
+"sequence": 2,
+"url": "http://st3.zeenews.india.com/liveapi/kannada/briefnews/index.json",
+"tagId": 0
+},
+{
+"name": "ಪ್ರಚಲಿತ",
+"viewType": "LATEST",
+"sequence": 3,
+"url": "http://st3.zeenews.india.com/liveapi/kannada/latestnews/index.json",
+"zeeUrl": "https://zeenews.india.com/kannada/mobileapi/latestnews.php",
+"tagId": 0
+}
+],
+"forceUpdateMessage": "This app is expired and cannot be used. Get the Latest version!",
+"optionalUpdateMessage": "A new version of Zee News is available for installation.Get the latest version TODAY!",
+"homeAllAdsIOS": [
+{
+"adsid": "/11440465/Zeenews_Kannada_iOS/Zeenews_Kannada_iOS_HP_Native_India_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 848786,
+"sectionName": "ರಾಷ್ಟ್ರೀಯ",
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_Kannada_iOS/Zeenews_Kannada_iOS_HP_Native_World_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 120186,
+"sectionName": "ಅಂತರಾಷ್ಟ್ರೀಯ",
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_Kannada_iOS/Zeenews_Kannada_iOS_HP_Native_States_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 120310,
+"sectionName": "ಕರ್ನಾಟಕ",
+"adsPosition": 2,
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_Kannada_iOS/Zeenews_Kannada_iOS_HP_Native_Entertainment_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 120082,
+"sectionName": "ಮನರಂಜನೆ",
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_Kannada_iOS/Zeenews_Kannada_iOS_HP_Native_Sport_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 120890,
+"sectionName": "ಕ್ರೀಡೆ",
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_Kannada_iOS/Zeenews_Kannada_iOS_HP_Native_Business_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 657581,
+"sectionName": "ವ್ಯಾಪಾರ",
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_Kannada_iOS/Zeenews_Kannada_iOS_HP_Native_Health_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 120352,
+"sectionName": "ಆರೋಗ್ಯ",
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_Kannada_iOS/Zeenews_Kannada_iOS_HP_Native_Technology_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 120563,
+"sectionName": "ತಂತ್ರಜ್ಞಾನ",
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_Kannada_iOS/Zeenews_Kannada_iOS_HP_Native_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 0,
+"sectionName": "featuredNews",
+"adsType": "native"
+},
+{
+"adsid": "/11440465/Zeenews_Kannada_iOS/Zeenews_Kannada_iOS_HP_ATF_320x50",
+"adsWidth": 320,
+"adsHeight": 50,
+"showAds": true,
+"Fulid": false,
+"sectionId": 0,
+"sectionName": null,
+"adsType": "ATF_50"
+},
+{
+"adsid": "/11440465/Zeenews_Kannada_iOS/Zeenews_Kannada_iOS_HP_ATF_300x250",
+"adsWidth": 300,
+"adsHeight": 250,
+"showAds": true,
+"Fulid": false,
+"sectionId": 0,
+"sectionName": null,
+"adsType": "ATF_250"
+},
+{
+"adsid": "/11440465/Zeenews_Kannada_iOS/Zeenews_Kannada_iOS_HP_BTF1_300x250",
+"adsWidth": 300,
+"adsHeight": 250,
+"showAds": true,
+"Fulid": false,
+"sectionId": 0,
+"sectionName": null,
+"adsType": "BTF_1_250"
+},
+{
+"adsid": "/11440465/Zeenews_Kannada_iOS/Zeenews_Kannada_iOS_HP_BTF2_300x250",
+"adsWidth": 300,
+"adsHeight": 250,
+"showAds": true,
+"Fulid": false,
+"sectionId": 0,
+"sectionName": null,
+"adsType": "BTF_2_250"
+},
+{
+"adsid": "/11440465/Zeenews_Kannada_iOS/Zeenews_Kannada_iOS_HP_Sticky_320x50",
+"adsWidth": 320,
+"adsHeight": 50,
+"showAds": true,
+"Fulid": false,
+"sectionId": 0,
+"sectionName": null,
+"adsType": "Sticky_50"
+}
+],
+"storyPageAdsIOS": [
+{
+"adsid": "/11440465/Zeenews_Kannada_iOS/Zeenews_Kannada_iOS_AS_ATF_320x50",
+"adsWidth": 320,
+"adsHeight": 50,
+"showAds": true,
+"Fulid": false,
+"adsType": "ATF_50"
+},
+{
+"adsid": "/11440465/Zeenews_Kannada_iOS/Zeenews_Kannada_iOS_AS_ATF_300x250",
+"adsWidth": 300,
+"adsHeight": 250,
+"showAds": true,
+"Fulid": false,
+"adsType": "ATF_250"
+},
+{
+"adsid": "/11440465/Zeenews_Kannada_iOS/Zeenews_Kannada_iOS_AS_BTF1_300x250",
+"adsWidth": 300,
+"adsHeight": 250,
+"showAds": true,
+"Fulid": false,
+"adsType": "BTF_1_250"
+},
+{
+"adsid": "/11440465/Zeenews_Kannada_iOS/Zeenews_Kannada_iOS_AS_BTF2_300x250",
+"adsWidth": 300,
+"adsHeight": 250,
+"showAds": true,
+"Fulid": false,
+"adsType": "BTF_2_250"
+},
+{
+"adsid": "/11440465/Zeenews_Kannada_iOS/Zeenews_Kannada_iOS_AS_Sticky_320x50",
+"adsWidth": 320,
+"adsHeight": 50,
+"showAds": true,
+"Fulid": false,
+"adsType": "Sticky_50"
+},
+{
+"adsid": "/11440465/Zeenews_Kannada_iOS/Zeenews_Kannada_iOS_AS_Native_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"adsType": "Native"
+}
+],
+"sectionPageAdsIOS": [
+{
+"adsid": "/11440465/Zeenews_Kannada_iOS/Zeenews_Kannada_iOS_AL_ATF_320x50",
+"adsWidth": 320,
+"adsHeight": 50,
+"showAds": true,
+"Fulid": false,
+"adsType": "ATF_50"
+},
+{
+"adsid": "/11440465/Zeenews_Kannada_iOS/Zeenews_Kannada_iOS_AL_ATF_300x250",
+"adsWidth": 300,
+"adsHeight": 250,
+"showAds": true,
+"Fulid": false,
+"adsType": "ATF_250"
+},
+{
+"adsid": "/11440465/Zeenews_Kannada_iOS/Zeenews_Kannada_iOS_AL_Sticky_320x50",
+"adsWidth": 320,
+"adsHeight": 50,
+"showAds": true,
+"Fulid": false,
+"adsType": "STICKY_50"
+},
+{
+"adsid": "/11440465/Zeenews_Kannada_iOS/Zeenews_Kannada_iOS_AL_Native_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": false,
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_Kannada_iOS/Zeenews_Kannada_iOS_AL_Native2_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"adsType": "Native2"
+},
+{
+"adsid": "/11440465/Zeenews_Kannada_iOS/Zeenews_Kannada_iOS_AL_Native3_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"adsType": "Native3"
+},
+{
+"adsid": "/11440465/Zeenews_Kannada_iOS/Zeenews_Kannada_iOS_AL_Native4_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"adsType": "Native4"
+},
+{
+"adsid": "/11440465/Zeenews_Kannada_iOS/Zeenews_Kannada_iOS_AL_Native5_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"adsType": "Native5"
+}
+],
+"homeAllAds": [
+{
+"adsid": "/11440465/Zeenews_Kannada_AOS/Zeenews_Kannada_AOS_HP_Native_India_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 848786,
+"sectionName": "ರಾಷ್ಟ್ರೀಯ",
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_Kannada_AOS/Zeenews_Kannada_AOS_HP_Native_World_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 120186,
+"sectionName": "ಅಂತರಾಷ್ಟ್ರೀಯ",
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_Kannada_AOS/Zeenews_Kannada_AOS_HP_Native_States_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 120310,
+"sectionName": "ಕರ್ನಾಟಕ",
+"adsPosition": 2,
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_Kannada_AOS/Zeenews_Kannada_AOS_HP_Native_Entertainment_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 120082,
+"sectionName": "ಮನರಂಜನೆ",
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_Kannada_AOS/Zeenews_Kannada_AOS_HP_Native_Sport_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 120890,
+"sectionName": "ಕ್ರೀಡೆ",
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_Kannada_AOS/Zeenews_Kannada_AOS_HP_Native_Business_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 657581,
+"sectionName": "ವ್ಯಾಪಾರ",
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_Kannada_AOS/Zeenews_Kannada_AOS_HP_Native_Health_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 120352,
+"sectionName": "ಆರೋಗ್ಯ",
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_Kannada_AOS/Zeenews_Kannada_AOS_HP_Native_Technology_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 120563,
+"sectionName": "ತಂತ್ರಜ್ಞಾನ",
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_Kannada_AOS/Zeenews_Kannada_AOS_HP_Native_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"sectionId": 0,
+"sectionName": "featuredNews",
+"adsType": "native"
+},
+{
+"adsid": "/11440465/Zeenews_Kannada_AOS/Zeenews_Kannada_AOS_HP_ATF_320x50",
+"adsWidth": 320,
+"adsHeight": 50,
+"showAds": true,
+"Fulid": false,
+"sectionId": 0,
+"sectionName": null,
+"adsType": "ATF_50"
+},
+{
+"adsid": "/11440465/Zeenews_Kannada_AOS/Zeenews_Kannada_AOS_HP_ATF_300x250",
+"adsWidth": 300,
+"adsHeight": 250,
+"showAds": true,
+"Fulid": false,
+"sectionId": 0,
+"sectionName": "ಫೋಟೋ ಗ್ಯಾಲರಿ",
+"adsType": "ATF_250"
+},
+{
+"adsid": "/11440465/Zeenews_Kannada_AOS/Zeenews_Kannada_AOS_HP_BTF1_300x250",
+"adsWidth": 300,
+"adsHeight": 250,
+"showAds": true,
+"Fulid": false,
+"sectionId": 0,
+"sectionName": "ಮನರಂಜನೆ",
+"adsType": "BTF_1_250"
+},
+{
+"adsid": "/11440465/Zeenews_Kannada_AOS/Zeenews_Kannada_AOS_HP_BTF2_300x250",
+"adsWidth": 300,
+"adsHeight": 250,
+"showAds": true,
+"Fulid": false,
+"sectionId": 0,
+"sectionName": "ಆರೋಗ್ಯ",
+"adsType": "BTF_2_250"
+},
+{
+"adsid": "/11440465/Zeenews_Kannada_AOS/Zeenews_Kannada_AOS_HP_Sticky_320x50",
+"adsWidth": 320,
+"adsHeight": 50,
+"showAds": true,
+"Fulid": false,
+"sectionId": 0,
+"sectionName": null,
+"adsType": "Sticky_50"
+}
+],
+"storyPageAds": [
+{
+"adsid": "/11440465/Zeenews_Kannada_AOS/Zeenews_Kannada_AOS_AS_ATF_320x50",
+"adsWidth": 320,
+"adsHeight": 50,
+"showAds": true,
+"Fulid": false,
+"adsType": "ATF_50"
+},
+{
+"adsid": "/11440465/Zeenews_Kannada_AOS/Zeenews_Kannada_AOS_AS_ATF_300x250",
+"adsWidth": 300,
+"adsHeight": 250,
+"showAds": true,
+"Fulid": false,
+"adsType": "ATF_250"
+},
+{
+"adsid": "/11440465/Zeenews_Kannada_AOS/Zeenews_Kannada_AOS_AS_BTF1_300x250",
+"adsWidth": 300,
+"adsHeight": 250,
+"showAds": true,
+"Fulid": false,
+"adsType": "BTF_1_250"
+},
+{
+"adsid": "/11440465/Zeenews_Kannada_AOS/Zeenews_Kannada_AOS_AS_BTF2_300x250",
+"adsWidth": 300,
+"adsHeight": 250,
+"showAds": true,
+"Fulid": false,
+"adsType": "BTF_2_250"
+},
+{
+"adsid": "/11440465/Zeenews_Kannada_AOS/Zeenews_Kannada_AOS_AS_Sticky_320x50",
+"adsWidth": 320,
+"adsHeight": 50,
+"showAds": true,
+"Fulid": false,
+"adsType": "Sticky_50"
+},
+{
+"adsid": "/11440465/Zeenews_Kannada_AOS/Zeenews_Kannada_AOS_AS_Native_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"adsType": "Native"
+}
+],
+"sectionPageAds": [
+{
+"adsid": "/11440465/Zeenews_Kannada_AOS/Zeenews_Kannada_AOS_AL_ATF_320x50",
+"adsWidth": 320,
+"adsHeight": 50,
+"showAds": true,
+"Fulid": false,
+"adsType": "ATF_50"
+},
+{
+"adsid": "/11440465/Zeenews_Kannada_AOS/Zeenews_Kannada_AOS_AL_ATF_300x250",
+"adsWidth": 300,
+"adsHeight": 250,
+"showAds": true,
+"Fulid": false,
+"adsType": "ATF_250"
+},
+{
+"adsid": "/11440465/Zeenews_Kannada_iOS/Zeenews_Kannada_AOS_AL_BTF_1_300x250",
+"adsWidth": 300,
+"adsHeight": 250,
+"showAds": true,
+"Fulid": false,
+"adsType": "BTF_1_250"
+},
+{
+"adsid": "/11440465/Zeenews_Kannada_iOS/Zeenews_Kannada_AOS_AL_BTF_2_300x250",
+"adsWidth": 300,
+"adsHeight": 250,
+"showAds": true,
+"Fulid": false,
+"adsType": "BTF_2_250"
+},
+{
+"adsid": "/11440465/Zeenews_Kannada_AOS/Zeenews_Kannada_AOS_AL_Sticky_320x50",
+"adsWidth": 320,
+"adsHeight": 50,
+"showAds": true,
+"Fulid": false,
+"adsType": "STICKY_50"
+},
+{
+"adsid": "/11440465/Zeenews_Kannada_AOS/Zeenews_Kannada_AOS_AL_Native_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": false,
+"adsType": "Native"
+},
+{
+"adsid": "/11440465/Zeenews_Kannada_AOS/Zeenews_Kannada_AOS_AL_Native2_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"adsType": "Native2"
+},
+{
+"adsid": "/11440465/Zeenews_Kannada_AOS/Zeenews_Kannada_AOS_AL_Native3_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"adsType": "Native3"
+},
+{
+"adsid": "/11440465/Zeenews_Kannada_AOS/Zeenews_Kannada_AOS_AL_Native4_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"adsType": "Native4"
+},
+{
+"adsid": "/11440465/Zeenews_Kannada_AOS/Zeenews_Kannada_AOS_AL_Native5_320x100",
+"adsWidth": 320,
+"adsHeight": 100,
+"showAds": true,
+"Fulid": true,
+"adsType": "Native5"
+}
+],
+"spAdsScriptATF": "<html><head><script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script><script>var googletag=googletag ||{}; googletag.cmd=googletag.cmd || [];</script><script>googletag.cmd.push(function(){googletag.defineSlot('/11440465/Zeenews_Kannada_AOS/Zeenews_Kannada_AOS_AS_ATF_300x250', [300, 250], 'div-gpt-ad-1551856938387-0').addService(googletag.pubads()); googletag.pubads().enableSingleRequest(); googletag.pubads().collapseEmptyDivs(); googletag.enableServices();});</script></head><body><div id='div-gpt-ad-1551856938387-0' style='height:250px; width:300px; margin: 0 auto;'><script>googletag.cmd.push(function(){googletag.display('div-gpt-ad-1551856938387-0');});</script></div></body></html>",
+"spAdsScriptBTF1": "<html><head><script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script><script>var googletag=googletag ||{}; googletag.cmd=googletag.cmd || [];</script><script>googletag.cmd.push(function(){googletag.defineSlot('/11440465/Zeenews_Kannada_AOS/Zeenews_Kannada_AOS_AS_BTF1_300x250', [300, 250], 'div-gpt-ad-1551856962472-0').addService(googletag.pubads()); googletag.pubads().enableSingleRequest(); googletag.pubads().collapseEmptyDivs(); googletag.enableServices();});</script></head><body><div id='div-gpt-ad-1551856962472-0' style='height:250px; width:300px; margin: 0 auto;'><script>googletag.cmd.push(function(){googletag.display('div-gpt-ad-1551856962472-0');});</script></div></body></html>",
+"spAdsScriptBTF2": "",
+"zeeTaboolaAds": {
+"publiserId": "zeemedia-zeenewskannadaandroid",
+"mode": "thumbs-feed-01",
+"placement": "Below Article Thumbnails",
+"pageUrl": "public-web-url-which-reflects-the-current-content",
+"pageType": "article",
+"targetType": "mix"
+}
+}
+],
+"config": {
+"androidAppVersion": 1112923,
+"androidAppVersionName": "9.2.3",
+"iOSAppVersion": "4.0.2",
+"splashDuration": 3,
+"android": {
+"versionCode": 55,
+"minimumSupportedVersionCode": 55,
+"versionName": "5.1.9"
+},
+"ios": {
+"versionCode": 4.9,
+"minimumSupportedVersionCode": 4.3,
+"versionName": "4.9"
+}
+},
+"splashImageConfig": {
+"android": {
+"splashImageUrl": "http://st3.zeenews.india.com/liveapi/app_banners/samsung_add_icon.png",
+"shouldDisplay": "false"
+},
+"ios": {
+"splashImageUrl": "http://st3.zeenews.india.com/liveapi/app_banners/samsung_add_icon.png",
+"shouldDisplay": "false"
+}
+}
+}
