@@ -1,5 +1,15 @@
 {
-"channels": [{
+"channels": [
+{
+"name": "ZeeNews Hindi”,
+"languageName": "Hindi",
+“Webview”: true
+"is_livetv": true,
+privacyPolicyUrl": "http://st3.zeenews.india.com/liveapi/english/privacy.json",
+"contactUsUrl": "http://st3.zeenews.india.com/liveapi/english/contact.json",
+"disclaimerUrl": "http://st3.zeenews.india.com/liveapi/english/disclaimer.json"
+},
+{
 "name": "ZeeNews Tamil",
 "languageName": "Tamil",
 "sectionUrl": "http://st3.zeenews.india.com/liveapi/tamil/section.json",
